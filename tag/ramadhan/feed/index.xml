@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Ramadhan &#8211; Noreta Agus Sasono</title>
+	<atom:link href="/tag/ramadhan/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pikiran, Ide, dan Gagasan</description>
+	<lastBuildDate>Fri, 24 Apr 2020 09:35:09 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2020/03/wp-1585135739501.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>Ramadhan &#8211; Noreta Agus Sasono</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">123076682</site>	<item>
+		<title>Ramadhan 1441 H. Hari Pertama</title>
+		<link>/2020/04/24/ramadhan-1441-h-hari-pertama/</link>
+					<comments>/2020/04/24/ramadhan-1441-h-hari-pertama/#respond</comments>
+		
+		<dc:creator><![CDATA[norsasono]]></dc:creator>
+		<pubDate>Fri, 24 Apr 2020 09:35:07 +0000</pubDate>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[Ramadhan]]></category>
+		<guid isPermaLink="false">/?p=1357</guid>
+
+					<description><![CDATA[Salah kirim desain sticker yang lumayan banyak. Mau cetak ulang pakai uang sendiri gak ada uang di dalam dompet. Ke ATM, kartu ATM gak ada di dompet. Balik ke hotel redesain sticker, belum ke-save udah close. Ketemu mbak-mbak sexy nan imut di dalam lift. Astagfirullah lupa kalau hari pertama puasa. ?]]></description>
+										<content:encoded><![CDATA[
+<ol class="wp-block-list"><li>Salah kirim desain sticker yang lumayan banyak.</li><li>Mau cetak ulang pakai uang sendiri gak ada uang di dalam dompet.</li><li>Ke ATM, kartu ATM gak ada di dompet.</li><li>Balik ke hotel redesain sticker, belum ke-save udah close.</li><li>Ketemu mbak-mbak sexy nan imut di dalam lift. Astagfirullah lupa kalau hari pertama puasa.</li><li>?</li></ol>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/04/24/ramadhan-1441-h-hari-pertama/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1357</post-id>	</item>
+	</channel>
+</rss>

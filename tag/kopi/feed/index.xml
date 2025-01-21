@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Kopi &#8211; Noreta Agus Sasono</title>
+	<atom:link href="/tag/kopi/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pikiran, Ide, dan Gagasan</description>
+	<lastBuildDate>Tue, 02 Mar 2021 14:07:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2020/03/wp-1585135739501.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>Kopi &#8211; Noreta Agus Sasono</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">123076682</site>	<item>
+		<title>Sekali-sekali lah ya ..</title>
+		<link>/2020/07/04/sekali-sekali-lah-ya/</link>
+					<comments>/2020/07/04/sekali-sekali-lah-ya/#respond</comments>
+		
+		<dc:creator><![CDATA[norsasono]]></dc:creator>
+		<pubDate>Sat, 04 Jul 2020 02:12:49 +0000</pubDate>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[Kopi]]></category>
+		<category><![CDATA[vlog]]></category>
+		<guid isPermaLink="false">/?p=1389</guid>
+
+					<description><![CDATA[Jadi sekali-sekali upload video di Youtube boleh lah ya? Itung-itung ngisi konten, ya meskipun saya sudah sedikit menarik diri dari dunia sosial media peronline-an. Jadi gini, kemarin dapet kesempatan videoin proses maintenance rutin mesin kopi Next Door Cafe; Victoria Arduino Black Eagle Gravitech VA 388. Btw, itu mesin kopi harganya lebih mahal dikit daripada Toyota [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Routine Maintenance of Victoria Arduino Black Eagle Gravitech VA 388" width="560" height="315" src="https://www.youtube.com/embed/0gwBe1KHqZk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>Jadi sekali-sekali upload video di Youtube boleh lah ya? Itung-itung ngisi konten, ya meskipun saya sudah sedikit menarik diri dari dunia sosial media peronline-an.</p>
+
+
+
+<p>Jadi gini, kemarin dapet kesempatan videoin proses <em>maintenance</em> rutin mesin kopi Next Door Cafe; <strong>Victoria Arduino Black Eagle Gravitech VA 388</strong>. Btw, itu mesin kopi harganya lebih mahal dikit daripada Toyota Avanza Veloz gresss .. </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/07/04/sekali-sekali-lah-ya/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1389</post-id>	</item>
+	</channel>
+</rss>

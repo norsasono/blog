@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Internet &#8211; Noreta Agus Sasono</title>
+	<atom:link href="/tag/internet/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pikiran, Ide, dan Gagasan</description>
+	<lastBuildDate>Fri, 27 Mar 2020 03:42:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2020/03/wp-1585135739501.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>Internet &#8211; Noreta Agus Sasono</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">123076682</site>	<item>
+		<title>Tak Cukup Hanya &#8220;Incognito&#8221;</title>
+		<link>/2017/06/17/tak-cukup-hanya-incognito/</link>
+					<comments>/2017/06/17/tak-cukup-hanya-incognito/#respond</comments>
+		
+		<dc:creator><![CDATA[norsasono]]></dc:creator>
+		<pubDate>Sat, 17 Jun 2017 09:55:09 +0000</pubDate>
+				<category><![CDATA[Computer]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Tutorial]]></category>
+		<guid isPermaLink="false">/?p=588</guid>
+
+					<description><![CDATA[Because there's no place like 127.0.0.1]]></description>
+										<content:encoded><![CDATA[<p>Beberapa hari yang lalu saya membaca sebuah tulisan bagus dari <a href="https://medium.freecodecamp.com/@quincylarson"><strong>Quincy Larson</strong></a> yang berjudul <a href="https://medium.freecodecamp.com/tor-signal-and-beyond-a-law-abiding-citizens-guide-to-privacy-1a593f2104c3"><strong>&#8220;How to encrypt your entire life in less than an hour&#8221;</strong></a>. Artikel tersebut menjabarkan beberapa tips tentang bagaimana untuk tetap aman dalam dunia digital, termasuk di dalamnya penggunaan browser yang memiliki fitur dalam hal keamanan yang jauh lebih baik dari pada browser yang umum kita gunakan seperi Chrome, Firefox, Safari, dan lain sebagainya, bahkan sekalipun kita sudah menggunakan fitur <em>Incognito</em> ataupun <em>Private Window</em>. Silahkan gunakan <a href="https://www.torproject.org/">TOR</a>.<span id="more-588"></span></p>
+<p>Dan satu hal lagi yang belum masuk dalam list tips dari penulis adalah penambahan daftar alamat pada file <em>Host</em> untuk meningkatkan privasi dari komputer kita ketika terhubung ke internet. Gunakan <em>host</em> <span id="result_box" class="" lang="id"><span class="">untuk mencegah komputer kalian terhubung ke alamat-alamat tertentu.</span> <span class="">Ini merupakan cara mudah dan efektif untuk melindungi kalian dari berbagai jenis spyware, mengurangi penggunaan bandwidth, memblokir perangkap pop-up tertentu, dan mencegah pelacakan pengguna dengan menggunakan celah atau <em>bug</em> pada sebuah website. Mekanismenya hanyalah membatasi/memblok perangkat kita <code>127.0.0.1</code> untuk dapat mengakses alamat/<em>IP Address</em> yang tertera pada list.<br />
+</span></span></p>
+<p>Beberapa bulan ini saya menggunakan <em>host</em> file milik <a href="http://someonewhocares.org/hosts/hosts" target="_blank" rel="noopener noreferrer">Dan Pollock</a> di perangkat pribadi saya baik laptop dan juga HP. Silahkan download dan <em>install</em> di perangkat kalian. Tutorial pemasangan untuk berbagai jenis sistem operasi sudah tertera dalam file, silahkan buka menggunakan notepad.</p>
+<p>Untuk pemasangan pada perangkat ponsel Android, syarat utamanya adalah HP sudah memiliki akses <em>Root</em>. Gunakan file manjer yang support root akses dan letakkan file pada <code>/system/etc/</code>.</p>
+<h2>Update</h2>
+<p>Kalian juga dapat menggunakan repository <a href="https://github.com/StevenBlack/hosts">Steven Black</a> sebagai alternatif. Tutorial pemasangan serta update daftar host juga disertakan.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2017/06/17/tak-cukup-hanya-incognito/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">588</post-id>	</item>
+		<item>
+		<title>Mau, Blog dan Domain .my.id Gratis dari PANDI?</title>
+		<link>/2017/04/21/mau-blog-dan-domain-gratis-my-id-dari-pandi/</link>
+					<comments>/2017/04/21/mau-blog-dan-domain-gratis-my-id-dari-pandi/#respond</comments>
+		
+		<dc:creator><![CDATA[norsasono]]></dc:creator>
+		<pubDate>Fri, 21 Apr 2017 15:16:44 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Tutorial]]></category>
+		<category><![CDATA[Info]]></category>
+		<category><![CDATA[Internet]]></category>
+		<guid isPermaLink="false">/?p=528</guid>
+
+					<description><![CDATA[Mari bergabung di revolusi Identitas Digital Indonesia.
+Cukup gunakan Nomor Induk Kependudukan (NIK) dari KTP anda, dan nikmati kemudahan beraktifitas digital.]]></description>
+										<content:encoded><![CDATA[<p>Sudahkan tahukan Anda dengan program PANDI (Pengelola Nama Domain Indonesia) terbaru yang satu ini? Bersyukurlah karena dengan adanya program ini kita akan mendapatkan satu domain gratis dengan ekstensi .my.id beserta satu blog gratis pula dengan platform WordPress Multiuser. Atau anggap saja kalian akan mendapatkan satu blog WordPress beserta domain my.id gratis tis tis. Contohnya <strong><a href="http://sasono.my.id/" target="_blank" rel="noopener noreferrer">http://sasono.my.id/ </a></strong>Uhuk ..</p>
+<h1><a href="/2017/04/21/mau-blog-dan-domain-gratis-my-id-dari-pandi/pandi-e-id/" rel="attachment wp-att-534"><img data-recalc-dims="1" fetchpriority="high" decoding="async" class="aligncenter wp-image-534 size-full" src="https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-e.id_-e1492795022378.png?resize=560%2C226" alt="" width="560" height="226" srcset="https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-e.id_-e1492795022378.png?w=1353&amp;ssl=1 1353w, https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-e.id_-e1492795022378.png?resize=300%2C121&amp;ssl=1 300w, https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-e.id_-e1492795022378.png?resize=1024%2C414&amp;ssl=1 1024w, https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-e.id_-e1492795022378.png?resize=768%2C310&amp;ssl=1 768w, https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-e.id_-e1492795022378.png?resize=1200%2C485&amp;ssl=1 1200w, https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-e.id_-e1492795022378.png?w=1120&amp;ssl=1 1120w" sizes="(max-width: 560px) 100vw, 560px" /></a>How Does It Work?</h1>
+<p>Seperti yang tertulis di halaman awal <a href="http://demo.e.id/" target="_blank" rel="noopener noreferrer">demo.e.id</a>.</p>
+<blockquote><p>Mari bergabung di revolusi Identitas Digital Indonesia.<br />
+Cukup gunakan Nomor Induk Kependudukan (NIK) dari KTP anda, dan nikmati kemudahan beraktifitas digital.</p></blockquote>
+<p><span id="more-528"></span></p>
+<p>Program ini menggunakan data yang ada atau yang telah terdaftar dalam e-KTP.&nbsp; Karena dalam proses registrasi kalian akan diminta untuk memasukkan NIK (Nomor Induk Kependudukan) yang terdapat pada e-KTP kalian masing-masing. Jadi bagi kalian yang sekarang telah memiliki e-KTP kalian akan dapat menggunakan layanan ini. Oh ya, layanan ini masih bersifat beta, jadi silahkan mencoba dan daftarkan domain yang kalian inginkan sebelum diambil orang lain.</p>
+<h1>Cara Pendaftaran</h1>
+<ol>
+<li>Buka halaman <a href="http://demo.e.id/" target="_blank" rel="noopener noreferrer">demo.e.id</a> dan lakukan registrasi dengan klik tombol <strong>Mendaftar. </strong>Lalu isi form seperti yang terlihat di bawah yang berisi NIK, Nama ibu, Nomor ponsel, alamat email, dan kata sandi (yang menggunakan minimal 8 karakter yang terdiri dari kombinasi huruf besar, huruf kecil, angka dan symbol seperti : !@#$%^&amp;). Jangan lupa ceklis untuk menyetujui syarat dan ketentuan serta CAPTCHA.<a href="/2017/04/21/mau-blog-dan-domain-gratis-my-id-dari-pandi/pandi-e-id-register-akun/" rel="attachment wp-att-536"><img data-recalc-dims="1" decoding="async" class="aligncenter size-full wp-image-536" src="https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-e-id-register-akun.png?resize=560%2C814" alt="" width="560" height="814" srcset="https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-e-id-register-akun.png?w=700&amp;ssl=1 700w, https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-e-id-register-akun.png?resize=206%2C300&amp;ssl=1 206w" sizes="(max-width: 560px) 100vw, 560px" /></a></li>
+<li>Buka alamat email yang kalian gunakan dalam pendaftaran di awal untuk melakukan konfirmasi.</li>
+<li>Silahkan kembali ke halaman <a href="http://demo.e.id/" target="_blank" rel="noopener noreferrer">demo.e.id </a>untuk melakukan login menggunakan NIK/alamat email serta password dalam pendaftaran. Seperti inilah halaman profil milik saya.<a href="/2017/04/21/mau-blog-dan-domain-gratis-my-id-dari-pandi/pandi-profil-e-id/" rel="attachment wp-att-537"><img data-recalc-dims="1" decoding="async" class="aligncenter size-large wp-image-537" src="https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-profil-e.id_-1024x970.png?resize=560%2C531" alt="" width="560" height="531" srcset="https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-profil-e.id_.png?resize=1024%2C970&amp;ssl=1 1024w, https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-profil-e.id_.png?resize=300%2C284&amp;ssl=1 300w, https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-profil-e.id_.png?resize=768%2C727&amp;ssl=1 768w, https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-profil-e.id_.png?resize=1200%2C1136&amp;ssl=1 1200w, https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-profil-e.id_.png?w=1353&amp;ssl=1 1353w, https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-profil-e.id_.png?w=1120&amp;ssl=1 1120w" sizes="(max-width: 560px) 100vw, 560px" /></a></li>
+<li>Silahkan kembali ke halaman <a href="http://www.my.id/" target="_blank" rel="noopener noreferrer">http://www.my.id/</a> lalu klik menu BUAT <strong>TULISAN/DAFTAR </strong>seperti pada gambar di bawah.<a href="/2017/04/21/mau-blog-dan-domain-gratis-my-id-dari-pandi/pandi-daftar-blog/" rel="attachment wp-att-538"><img data-recalc-dims="1" loading="lazy" decoding="async" class="aligncenter size-large wp-image-538" src="https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-Daftar-blog-1024x486.png?resize=560%2C266" alt="" width="560" height="266"></a></li>
+<li>Masukkan Judul blog dan alamat/domain yang kalian inginkan. Misal <a href="http://sasono.my.id/" target="_blank" rel="noopener noreferrer">sasono.my.id</a> <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Tunggu proses pendaftaran sekitar 15-30 menit (biasanya tidak sampai satu menit sih).<a href="/2017/04/21/mau-blog-dan-domain-gratis-my-id-dari-pandi/pandi-selamat-datang/" rel="attachment wp-att-539"><img data-recalc-dims="1" loading="lazy" decoding="async" class="aligncenter size-large wp-image-539" src="https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-selamat-datang-1024x481.png?resize=560%2C263" alt="" width="560" height="263" srcset="https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-selamat-datang.png?resize=1024%2C481&amp;ssl=1 1024w, https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-selamat-datang.png?resize=300%2C141&amp;ssl=1 300w, https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-selamat-datang.png?resize=768%2C361&amp;ssl=1 768w, https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-selamat-datang.png?resize=1200%2C564&amp;ssl=1 1200w, https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-selamat-datang.png?w=1366&amp;ssl=1 1366w, https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-selamat-datang.png?w=1120&amp;ssl=1 1120w" sizes="(max-width: 560px) 100vw, 560px" /></a></li>
+<li>Selamat, sekarang kalian sudah memiliki sebuah blog beserta domain .my.id gratis dengan mesin WordPress. <em>So familiar, huh?<a href="/2017/04/21/mau-blog-dan-domain-gratis-my-id-dari-pandi/pandi-blog-dashboard/" rel="attachment wp-att-540"><img data-recalc-dims="1" loading="lazy" decoding="async" class="aligncenter size-large wp-image-540" src="https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-blog-dashboard-1024x481.png?resize=560%2C263" alt="" width="560" height="263" srcset="https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-blog-dashboard.png?resize=1024%2C481&amp;ssl=1 1024w, https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-blog-dashboard.png?resize=300%2C141&amp;ssl=1 300w, https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-blog-dashboard.png?resize=768%2C361&amp;ssl=1 768w, https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-blog-dashboard.png?resize=1200%2C564&amp;ssl=1 1200w, https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-blog-dashboard.png?w=1366&amp;ssl=1 1366w, https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-blog-dashboard.png?w=1120&amp;ssl=1 1120w" sizes="(max-width: 560px) 100vw, 560px" /></a></em></li>
+</ol>
+<h1>Catatan</h1>
+<ol>
+<li>Layanan blog gratis ini sayangnya hanya menyediakan space sebesar 100MB, jadi bisa dipastikan kalian tidak bisa mengunggah terlalu banyak gambar. Saran saya, gunakan source gambar di tempat lain semisal Blogger, WordPress.com atau yang lain. Biar hemat ya gaes.</li>
+<li>Layanan blog gratis ini tidak memperkenankan kalian menggunakan plugin maupun tema tambahan. Tema bawaan yang disediakan hanya berjumlah 4 (Twenty Seventeen, Libre, Twenty Sixteen, dan Twenty Fifteen.</li>
+<li>Meskipun menggunakan platform WordPress, untuk melakukan login ke layanan blog ini kalian <strong>tidak dapat</strong> melakukan login melalui <strong>domain.my.id/wp-login.</strong> Silahkan melakukannya dengan membuka halaman <a href="http://demo.e.id/" target="_blank" rel="noopener noreferrer"><strong>demo.e.id</strong></a> dan masuk menggunakan <strong>NIK/email</strong> serta <strong>password</strong> yang kalian gunakan<strong>.</strong> Atau melalui halaman <a href="http://www.my.id/" target="_blank" rel="noopener noreferrer"><strong>www.my.id</strong></a>.</li>
+</ol>
+<p>Catatan tambahan akan saya cantumkan menyusul.</p>
+<p>Happy blogging .. <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2017/04/21/mau-blog-dan-domain-gratis-my-id-dari-pandi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">528</post-id>	</item>
+		<item>
+		<title>Ukuran Itu Penting</title>
+		<link>/2016/06/02/ukuran-itu-penting/</link>
+					<comments>/2016/06/02/ukuran-itu-penting/#comments</comments>
+		
+		<dc:creator><![CDATA[norsasono]]></dc:creator>
+		<pubDate>Thu, 02 Jun 2016 12:34:24 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Internet]]></category>
+		<guid isPermaLink="false">http://blog-gulajawa.rhcloud.com/2016/06/02/ukuran-itu-penting/</guid>
+
+					<description><![CDATA[Yes, size does matter. Meskipun tidak dalam semua hal, tetapi ukuran sering kali bisa menjadi awal dari sebuah permasalahan. FYI, saya baru saja merubah background image blog ini, saya tetap memutuskan menggunakan warna hitam sebagai warna dominan dengan sedikit aksen bunga Dandelion di sisi kiri disertai protolannya (tolong, saya lupa bahasa Indonesianya). Oke, mari kita [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><em>Yes, size does matter</em>. Meskipun tidak dalam semua hal, tetapi ukuran sering kali bisa menjadi awal dari sebuah permasalahan.</p>
+<p><strong>FYI</strong>, saya baru saja merubah <em>background image</em> blog ini, saya tetap memutuskan menggunakan warna hitam sebagai warna dominan dengan sedikit aksen bunga Dandelion di sisi kiri disertai <em>protolannya</em> (tolong, saya lupa bahasa Indonesianya).</p>
+<p><span id="more-143"></span></p>
+<p>Oke, mari kita kembali ke topik utama. <em>It&#8217;s about the size</em>, tentang besar atau kecil, panjang atau pendek, pokok tentang pentingnya sebuah ukuran.</p>
+<p>Saya baru saja mengirim pesanan desain seseorang untuk souvenir pernikahan, kebetulan beliau minta pesanannya dikirim via email karena saya bilang kalau gambarnya tidak terlalu besar, maksud saya ukuran filenya tidak terlalu besar. Bagi kalian yang familiar dengan file vector tentu akan paham betul perbandingan file vector dengan bitmap, kalau masih belum paham bisa baca <a href="http://etc.usf.edu/techease/win/images/what-is-the-difference-between-bitmap-and-vector-images/">ini</a> atau <a href="http://www.edipsw.com/desain-grafis/perbedaan-antara-gambar-bitmap/">ini</a>, file gambar berbentuk vector akan berukuran relatif lebih kecil daripada gambar berbentuk bitmap dengan dimensi yang sama.</p>
+<p>Lihat gambar di atas? Okay, gambar di atas merupakan gambar yang dibentuk menggunakan vector. Pssttt .. Tebak berapa ukurannya? lalu klik kanan mouse kalian <em>View Page Info</em> lalu pindah ke tab media, atau klik link <a href="/content/images/2016/06/dandelions.png">ini</a> untuk mendownload. Dengan dimensi 1.923px × 1.203px, gambar di atas hanya berukuran 18,61 KB atau sekitar 19.052 bytes.</p>
+<p>Lalu apa sangkut pautnya dengan internet? blog? atau email? <em>Speed</em>. Kecepatan. Semakin kecil data yang kalian akses semakin kecil pula <em>bandwith</em> yang kalian gunakan, berarti juga semakin cepat file yang terkirim maupun diterima, dan semakin sedikit juga kuota internet yang digunakan. <em>See??</em></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2016/06/02/ukuran-itu-penting/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">143</post-id>	</item>
+		<item>
+		<title>12 Kalimat yang Dibenci Seorang Desainer Grafis</title>
+		<link>/2016/05/18/12-kalimat-yang-dibenci-seorang-desainer-grafis/</link>
+					<comments>/2016/05/18/12-kalimat-yang-dibenci-seorang-desainer-grafis/#respond</comments>
+		
+		<dc:creator><![CDATA[norsasono]]></dc:creator>
+		<pubDate>Tue, 17 May 2016 21:18:48 +0000</pubDate>
+				<category><![CDATA[Valuable]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Internet]]></category>
+		<guid isPermaLink="false">http://blog-gulajawa.rhcloud.com/2016/05/18/12-kalimat-yang-dibenci-seorang-desainer-grafis/</guid>
+
+					<description><![CDATA[Bagi kalian yang bekerja sebagai seorang Desainer Grafis atau operator komputer, mungkin 12 kalimat dari seorang klien ini akan terasa begitu menyakitkan jika didengar 1. &#8220;Kan cuma tinggal digeser aja.&#8221; Geser juga gak bisa sembarangan geser, setiap objek yang digeser itu akan merubah komposisi dan keselarasan, maka kalau dibilang ngegeser sedikit, maka yang lain akan [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Bagi kalian yang bekerja sebagai seorang Desainer Grafis atau operator komputer, mungkin 12 kalimat dari seorang <em>klien</em> ini akan terasa begitu menyakitkan jika didengar <sup id="fnref-1"><a href="#fn-1" rel="footnote">1</a></sup>.</p>
+<p><span id="more-139"></span></p>
+<ol>
+<ol>
+<li><strong>&#8220;Kan cuma tinggal digeser aja.&#8221;</strong><br />
+Geser juga gak bisa sembarangan geser, setiap objek yang digeser itu akan merubah komposisi dan keselarasan, maka kalau dibilang <em>ngegeser</em> sedikit, maka yang lain akan ikut dirubah juga biar kelihatan bagus.</li>
+<li><strong>&#8220;Cuma gitu aja kok.&#8221;</strong><br />
+Gak ada yng gitu ajah. Semuanya butuh pemikiran dan perencanaan. Kalau mau dibilang mah, jalan kaki juga keliatanya cuma gitu doang. Padahal di dalam tuh otot dan sendi dan syaraf semuanya berkoordinasi dengan cara yang rumit. Cuma gak keliatan aja.</li>
+<li><strong>&#8220;Yang gampang aja.&#8221;</strong><br />
+Antara perhatian dengan desainernya biar gak repot, tapi juga bisa jadi ini ngeremehin desainernya. Yang gampang itu gak ada, dan semuanya juga butuh usaha.</li>
+<li><strong>&#8220;Kok belum selesai juga?&#8221;</strong><br />
+Paling males nih kalau udah dirong-rong kayak gini. Meskipun kelihatannya sederhana, tapi gak bisa juga sedetik langsung kelar. Kemudian, cuma bisa sabar aja.</li>
+<li><strong>&#8220;Coba ganti merah. <em>setelah diganti</em>. Eh bagusan yang tadi deh.&#8221;</strong><br />
+Semua yang udah dibuat sama desainer grafis itu dengan pertimbangan. Kalu misalnya minta diganti satu, misalnya ganti warna, tentu semuanya jadi harus disesuaikan juga dong. Kalu setelah itu revisinya diterima sih gak apa-apa. Yang bikin ngelus dada tuh kalau ternyata pilihan pertama itu yang lebih bagus.</li>
+<li><strong>&#8220;Cuma betulin dikit kok.&#8221;</strong><br />
+Coba definisikan sedikit.Kadang sedikit menurut <em>klien</em> gak sedikit menurut desainer grafis. Sedikit juga bisa beerarti dirmbak banyak juga.</li>
+<li><strong>&#8220;Gak usah bagus-bagus amat lah, asal aja.&#8221;</strong><br />
+Mungkin maksud dari orang ini adalah, yah, bikin yang sederhana aja yang gak ribet. Intinya sih dia pengen cepet. Tapik kan namanya desainer ya pastinya mempertaruhkan nama dia di setiap karyanya kan. Masak mau bikin yang asal-asalan?</li>
+<li><strong>&#8220;Masih lama ya?&#8221;</strong><br />
+Lagi-lagi <em>klien</em> gak ngerti ya kalau misalnya ngedesain itu gak mudah. Mungkin langkah-langkah bikinnya kelihatan mudah, tapi kalau dijalani itu ribet juga tau. Gak bisa sebentar.</li>
+<li><strong>&#8220;Besok udah jadi, bisa kan?&#8221;</strong><br />
+Iya, pengen cepet, ngerti kok. Kalau bisa cepet ngerjainnya cepet deh. Tapi kalau misalnya pekerjaan yang rumit diminta untuk bisa selesai dalam waktu sebentar ya gak bisa juga.</li>
+<li><strong>&#8220;Gua lupa sih nama <em>font</em>nya apa. Lu pasti lebih tau lah, kan lu desainer.&#8221;</strong><br />
+Yes, I am. Tapi &#8230; setidaknya <em>klien</em> juga harus tau apa yang dia mau dan kalau mau ngaduk-ngaduk koleksi <em>font</em>, wah, bisa sampe lebaran tahun depan baru kelar. Kalau bisa kasih referensi kan jadinya bakal lebih cepet.</li>
+<li><strong>&#8220;Harga temen aja ya.&#8221;</strong><br />
+Justru, kalau misalnya kita pakai jasa temen yang kita kenal, bukannya harusnya kita ikut membantu dia dan menghargai pekerjaannya itu ya? Masak mau dibayar kurang juga sih?, Kasihan dong. Nolaknya juga gak enak soalnya.</li>
+<li><strong>&#8220;Makasih Mas&#8221;</strong><br />
+Ini yang paling nyesek, bayaran sebesar <strong>2M</strong> untuk pekerjaan semalaman. <strong>Makasih Mas ..</strong></li>
+</ol>
+</ol>
+<blockquote><p>Apresiasi setiap pekerjaan yang dilakukan seseorang, karena gak semua yang terlihat mudah itu mudah juga prosesnya.</p></blockquote>
+<hr>
+<div class="footnotes">
+<ol>
+<li id="fn-1" class="footnote">Sumber: <strong>11 Kalimat yang Bisa Bikin Desainer Grafis/Operator Komputer NGELUS DADA.</strong> <a title="return to article" href="#fnref-1"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/21a9.png" alt="↩" class="wp-smiley" style="height: 1em; max-height: 1em;" /></a></li>
+</ol>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2016/05/18/12-kalimat-yang-dibenci-seorang-desainer-grafis/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">139</post-id>	</item>
+		<item>
+		<title>Kustomisasi Tema Kactus Untuk Jekyll</title>
+		<link>/2016/03/29/kustomisasi-tema-kactus-untuk-jekyll/</link>
+					<comments>/2016/03/29/kustomisasi-tema-kactus-untuk-jekyll/#respond</comments>
+		
+		<dc:creator><![CDATA[norsasono]]></dc:creator>
+		<pubDate>Tue, 29 Mar 2016 14:55:00 +0000</pubDate>
+				<category><![CDATA[Tutorial]]></category>
+		<category><![CDATA[Internet]]></category>
+		<guid isPermaLink="false">http://blog-gulajawa.rhcloud.com/2016/03/29/kustomisasi-tema-kactus-untuk-jekyll/</guid>
+
+					<description><![CDATA[Karena sebuah blog adalah cerminan dari pemiliknya, maka sudah semestinya tampilan juga harusnya disesuaikan dengan pemilik. Atau sedikit sentuhan setidaknya perlu dilakukan untuk memaksimalkan fitur maupun tampilan dari sebuah blog. Saya memakai Jekyll sebagai tool untuk membangun blog ini. Tema yang saya gunakan adalah Kactus milik Nick Balestra dengan beberapa perubahan atau kustomisasi. 1 Markdown [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Karena sebuah blog adalah cerminan dari pemiliknya, maka sudah semestinya tampilan juga harusnya disesuaikan dengan pemilik. Atau sedikit sentuhan setidaknya perlu dilakukan untuk memaksimalkan fitur maupun tampilan dari sebuah blog.</p>
+<p><s>Saya memakai <a href="http://jekyllrb.com/">Jekyll</a> sebagai tool untuk membangun blog ini. Tema yang saya gunakan adalah <a href="https://github.com/nickbalestra/kactus/">Kactus</a> milik Nick Balestra dengan beberapa perubahan atau kustomisasi.</s> <sup id="fnref-1"><a href="#fn-1" rel="footnote">1</a></sup></p>
+<h4 id="markdowndanhighlighter">Markdown dan Highlighter</h4>
+<p>Secara default tema Kactu menggunakan markdown Redcarpet dan hilighter Pygments, namun sejak perilisan Jekyll 3, Jekyll secara default menggunakan Kramdown sebagai markdown, dan Rouge sebagai highligter default. Oleh karena itu diperlukan perubahan markdown dan highlighter pada file <code>_config.yml</code> rubah menjadi seperti di bawah ini.</p>
+<p><span id="more-129"></span></p>
+<pre><code>markdown: kramdown  
+highlighter: rouge  
+</code></pre>
+<h4 id="formatpermalink">Format Permalink</h4>
+<p>Saya menggunakan format permalink Pretty. Jadi format yang akan digunakan adalah sebagai berikut <code>domain/tahun/bulan/tanggal/judul-post/</code>. Rubah setingan Permalink pada <code>_config.yml</code> dengan format seperti di bawah.</p>
+<pre><code>permalink: pretty  
+</code></pre>
+<h4 id="pagination">Pagination</h4>
+<p>Pagination adalah fitur penomoran halaman yang biasanya ada di setiap blog untuk membatasi jumlah postingan yang akan ditampilkan pada setiap halaman. Meskipun fitur ini sudah disematkan pada tema Kactus, namun tidak secara default ditampilkan pada tema bawaan. Kita perlu mengaktikannya dengan merubah parameter pada file <code>_config.yml</code>, disini saya hanya menampilkan 8 postingan dalam setiap halaman.</p>
+<pre><code>pagination: 8  
+</code></pre>
+<h4 id="paginationstyle">Pagination Style</h4>
+<p>Secara default, format yang digunakan dalam penomoran halaman Kactus adalah <code>domain/page(halaman)/</code> ex <code>blog.sasono.web.id/page2/</code>. Saya merubah format penomoran tersebut menjadi <code>domain/page/(halaman)</code> ex <code>blog.sasono.web.id/page/2/</code> dengan menambahkan satu line tepat di bawah pagination. Jadi formatnya akan menjadi demikian.</p>
+<pre><code>pagination: 8  
+paginate_path: /page/:num  
+</code></pre>
+<p>lalu rubah format link pada <code>_includes/pagination.html</code> menjadi seperti</p>
+<pre><code class="language- html">&lt;nav id="post-nav"&gt;  
+    {% if paginator.previous_page %}
+        &lt;span class="prev"&gt;
+            {% if paginator.previous_page == 1 %}
+                &lt;a href="/" title="Previous Page"&gt;
+                    &lt;span class="arrow"&gt;←&lt;/span&gt; Newer Posts
+                &lt;/a&gt;
+            {% else %}
+                &lt;a href="/page/{{ paginator.previous_page }}/"&gt;
+                    &lt;span class="arrow"&gt;←&lt;/span&gt; Newer Posts
+                &lt;/a&gt;
+            {% endif %}
+        &lt;/span&gt;
+    {% endif %}
+    {% if paginator.next_page %}
+        &lt;span class="next"&gt;
+            &lt;a href="/page/{{ paginator.next_page }}/"&gt;
+                Older Posts &lt;span class="arrow"&gt;→&lt;/span&gt;
+            &lt;/a&gt;
+        &lt;/span&gt;
+    {% endif %}
+&lt;/nav&gt;  
+</code></pre>
+<h4 id="emoji">Emoji</h4>
+<p>Tidak perlu penjelasan lebih, bagi saya, menambahkan emoji akan menjadikan blog lebih unik. Contohnya seperti ini <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /> :joy: :smiley:. Cukup tambahkan perintah berikut di baris terakhir <strong>_config.yml</strong></p>
+<pre><code class="language- ruby">gems:  
+  - jemoji
+</code></pre>
+<p>berikan pengecualian pada file css agar gambar emoji tidak ikut tertarik, karena secara default file gambar pada postingan akan dimaksimalkan lebarnya menjadi 100%. Edit file css pada folder <code>/assets/css/style.css</code></p>
+<pre><code class="language- css">img {  
+    width: 100%;
+    max-width: 100%;
+    border-radius: 3px;
+}
+</code></pre>
+<p>ubah menjadi</p>
+<pre><code class="language- css">img:not(.emoji) {  
+    width: 100%;
+    max-width: 100%;
+    border-radius: 3px;
+}
+</code></pre>
+<p>Cheatsheet dan emoji lainnya bisa kalian lihat di halaman <a href="http://emoji.muan.co/">ini</a></p>
+<h4 id="responsivevideo">Responsive Video</h4>
+<p>Agar tampilan video yang diembed di halaman ini responsive, tambahkan file Javascript bernama <a href="https://github.com/davatron5000/FitVids.js">FitVids</a> milik Dave Rupert. Download file tersebut lalu tambahkan pada <code>/assets/js/</code></p>
+<p>Jangan lupa di load biar bisa digunakan. Caranya tambahkan baris berikut diantara tag <code>&lt;body&gt; &lt;/body&gt;</code></p>
+<pre><code class="language- javascript">&lt;script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"&gt;&lt;/script&gt;  
+&lt;script src="/assets/js/jquery.fitvids.js"&gt;&lt;/script&gt;  
+    &lt;script&gt;
+      $(document).ready(function(){
+        // Target .container, .wrapper, .post, etc.
+        $(".post").fitVids();
+      });
+    &lt;/script&gt;
+</code></pre>
+<p>Selesai .. :dancer:</p>
+<hr />
+<div class="footnotes">
+<ol>
+<li id="fn-1" class="footnote">Ups, maaf kawan. Saya sudah tidak menggunakan Jekyll untuk menjalankan blog ini. <a title="return to article" href="#fnref-1"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/21a9.png" alt="↩" class="wp-smiley" style="height: 1em; max-height: 1em;" /></a></li>
+</ol>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2016/03/29/kustomisasi-tema-kactus-untuk-jekyll/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">129</post-id>	</item>
+		<item>
+		<title>Google Noto Fonts</title>
+		<link>/2015/04/01/google-noto-fonts/</link>
+					<comments>/2015/04/01/google-noto-fonts/#comments</comments>
+		
+		<dc:creator><![CDATA[norsasono]]></dc:creator>
+		<pubDate>Tue, 31 Mar 2015 22:00:00 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Internet]]></category>
+		<guid isPermaLink="false">http://blog-gulajawa.rhcloud.com/2015/04/01/google-noto-fonts/</guid>
+
+					<description><![CDATA[Noto is Google’s font family that aims to support all the world’s languages. Its design goal is to achieve visual harmonization across languages.]]></description>
+										<content:encoded><![CDATA[<p>Bagi kalian yang belum pernah dengar proyek Google yang satu ini mungkin akan bertanya-tanya tentang maksud atau tujuan dari adanya proyek tersebut. Google Noto Fonts adalah proyek lain milik Google disamping <a href="http://google.com/fonts">Google Fonts</a>.</p>
+<p>Seperti kutipan yang ada pada halaman resmi, proyek ini bertujuan untuk menyelaraskan tampilan visual seluruh bahasa di dunia. Jadi tidak perlu banyak jenis <em>font</em> yang digunakan untuk setiap penulisan sebuah bahasa.</p>
+<p>Untuk Indonesia sendiri, Noto sudah memiliki beberapa bahasa daerah di Indonesia; Achi, Bali, Banjar, Batak Toga, Betawi, Bugis, Gorontalo, Jawa, Kerinci, Komering, Lampung Api, Madura, Makasar, Malay (Arab), Mandar, Mentawai, Minangkabau, Ngaju, Rejang, Sangir, Sasak, Selayar, Sunda, Tae&#8217;, Tolaki, Cina Tradisional, Uab Meto, dan bahasa Indonesia sendiri.</p>
+<p>Noto menyediakan dua jenis <em>font</em> yang dapat digunakan dalam penulisan, yaitu Sans dan Serif.</p>
+<p>Tertarik? silahkan kunjungi halaman resmi <a href="http://www.google.com/get/noto/#/">Google Noto Fonts</a> untuk mengunduhnya.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2015/04/01/google-noto-fonts/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">110</post-id>	</item>
+	</channel>
+</rss>

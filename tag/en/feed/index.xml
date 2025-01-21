@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>EN &#8211; Noreta Agus Sasono</title>
+	<atom:link href="/tag/en/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pikiran, Ide, dan Gagasan</description>
+	<lastBuildDate>Tue, 24 Mar 2020 17:58:15 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2020/03/wp-1585135739501.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>EN &#8211; Noreta Agus Sasono</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">123076682</site>	<item>
+		<title>Update Ghost 0.11.3 [Openshift]</title>
+		<link>/2016/12/19/update-ghost-0-11-3-using-openshift-quickstart/</link>
+					<comments>/2016/12/19/update-ghost-0-11-3-using-openshift-quickstart/#comments</comments>
+		
+		<dc:creator><![CDATA[norsasono]]></dc:creator>
+		<pubDate>Mon, 19 Dec 2016 18:29:08 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Tutorial]]></category>
+		<category><![CDATA[EN]]></category>
+		<guid isPermaLink="false">http://blog-gulajawa.rhcloud.com/2016/12/18/update-ghost-0-11-3-using-openshift-quickstart/</guid>
+
+					<description><![CDATA[According to Marco Ibarra, "This is the best available guide ANYWHERE!"]]></description>
+										<content:encoded><![CDATA[<p>First. Let me tell you that it is just another update and I wouldn&#8217;t explain the new features as they have been explained <a href="https://dev.ghost.org/">here</a> in every developer blog post. Just go and read it.</p>
+<p>Second. I will also try to explain it briefly as I assume that you have read the other posts I wrote before <a href="/2016/08/02/update-ghost-0-9-0-using-openshift-quickstart/">here</a> and <a href="/2016/06/04/update-ghost-0-8-0-using-openshift-quickstart/">here</a>.</p>
+<h3>Note</h3>
+<p>Someone confirmed that this tutorial also worked for updating to the version <strong>0.11.7</strong>. Read his comments <strong>(potatoefist)</strong> below.</p>
+<h2 id="backup">Backup</h2>
+<p>Remember to always do a backup first before doing an upgrade.</p>
+<ol>
+<li>Go to your <code>blog dashboard</code> &gt; <code>Labs</code> &gt; then hit the <code>Export</code> button. This will export your settings and your content to a json file that you can import whenever you need it.</li>
+<li>Make a snapshot of your cartridge by using this command in your terminal <code>rhc snapshot save </code>. You can read about this <a href="https://developers.openshift.com/managing-your-applications/backing-up-applications.html">here</a>.</li>
+</ol>
+<p><span id="more-156"></span></p>
+<h2 id="preupdate">Pre Update</h2>
+<p>Please make sure you have installed the right version of <strong>node.js</strong> in your machine, just take a look at <a href="http://support.ghost.org/supported-node-versions/">this post</a> for the compabilities. I use <strong>4.2</strong> as this is the recommended one and the version of Node that they use with Ghost in production on Ghost(Pro).</p>
+<p>Type <code>node -v</code> to show the version.</p>
+<p>Then tidy up your application to prevent a <em>Not Enough Space</em> error. Just run this command on your terminal.</p>
+<pre>rhc app tidy   
+</pre>
+<h2 id="update">Update</h2>
+<p>In order to the new <strong>Node.js</strong> support and <strong>a few dependency updates</strong>, you should modify your <code>package.json</code> file in your root app folder. I have changed the node version and added the newest dependencies update. You may choose whatever you want. Here is <strong>mine</strong>:</p>
+<pre>{
+    "name": "openshift-ghost-quickstart",
+    "description" : "Openshift Ghost Quickstart (SQLite)",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/openshift/openshift-ghost-quickstart.git"
+    },
+    "bugs": "https://github.com/openshift/openshift-ghost-quickstart/issues",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index"
+    },
+    "engines": {
+        "node": "~4.2.0",
+        "iojs": "~1.2.0"
+    },
+    "dependencies": {
+        "express": "^4.14.0",
+        "ghost": "^0.11.3",
+        "amperize": "0.3.1",
+        "archiver": "1.1.0",
+        "bcryptjs": "2.3.0",
+        "bluebird": "3.4.6",
+        "body-parser": "1.15.2",
+        "bookshelf": "0.10.2",
+        "chalk": "1.1.3",
+        "cheerio": "0.22.0",
+        "compression": "1.6.2",
+        "connect-slashes": "1.3.1",
+        "cookie-session": "1.2.0",
+        "cors": "2.8.1",
+        "csv-parser": "1.11.0",
+        "downsize": "0.0.8",
+        "express-hbs": "1.0.3",
+        "extract-zip-fork": "1.5.1",
+        "fs-extra": "0.30.0",
+        "ghost-gql": "0.0.5",
+        "glob": "5.0.15",
+        "gscan": "0.0.15",
+        "html-to-text": "2.1.3",
+        "image-size": "0.5.0",
+        "intl": "1.2.5",
+        "intl-messageformat": "1.3.0",
+        "jsonpath": "0.2.7",
+        "knex": "0.12.5",
+        "lodash": "4.16.4",
+        "moment": "2.15.2",
+        "moment-timezone": "0.5.7",
+        "morgan": "1.7.0",
+        "multer": "1.2.0",
+        "netjet": "1.1.3",
+        "node-uuid": "1.4.7",
+        "nodemailer": "0.7.1",
+        "oauth2orize": "1.5.1",
+        "passport": "0.3.2",
+        "passport-http-bearer": "1.0.1",
+        "passport-oauth2-client-password": "0.1.2",
+        "path-match": "1.2.4",
+        "rss": "1.2.1",
+        "sanitize-html": "1.13.0",
+        "semver": "5.3.0",
+        "showdown-ghost": "0.3.6",
+        "sqlite3": "3.1.8",
+        "superagent": "2.3.0",
+        "unidecode": "0.1.8",
+        "validator": "5.7.0",
+        "xml": "1.0.1"
+    }
+}
+</pre>
+<p>Save it.</p>
+<p>Then remove <code>node_modules</code> folder, clean the node packages cache:</p>
+<pre>rm -rf node\_modules &amp;&amp; npm cache clear  
+</pre>
+<p>Then reinstall the packages:</p>
+<pre>npm install --production  
+</pre>
+<h2 id="pushyourchanges">Push your changes</h2>
+<pre>git add .  
+git commit -m "Update to Ghost 0.11.3"  
+git push  
+</pre>
+<p>Voila !</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2016/12/19/update-ghost-0-11-3-using-openshift-quickstart/feed/</wfw:commentRss>
+			<slash:comments>8</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">156</post-id>	</item>
+		<item>
+		<title>Update Ghost 0.9.0 Using Openshift Quickstart</title>
+		<link>/2016/08/04/update-ghost-0-9-0-using-openshift-quickstart/</link>
+					<comments>/2016/08/04/update-ghost-0-9-0-using-openshift-quickstart/#comments</comments>
+		
+		<dc:creator><![CDATA[norsasono]]></dc:creator>
+		<pubDate>Thu, 04 Aug 2016 15:25:18 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Tutorial]]></category>
+		<category><![CDATA[EN]]></category>
+		<guid isPermaLink="false">http://blog-gulajawa.rhcloud.com/2016/08/02/update-ghost-0-9-0-using-openshift-quickstart/</guid>
+
+					<description><![CDATA["right! the simplest and most efficient way to do it." Said Fugabi.]]></description>
+										<content:encoded><![CDATA[<p>Ghost recently released a new version of the CMS, and again, here are the steps or tutorial on how to update your Ghost to the version 0.9.0 for the users of Openshift Quickstart. This is the easier way to update your Ghost rather than <a href="/2016/06/03/update-ghost-0-8-0-using-openshift-quickstart/">this one</a> I wrote before.</p>
+<p><strong>I assume that you already have a clone of your application (blog) in your local machine.</strong></p>
+<p>At first, I suggest you to take a look at the &#8216;update&#8217; section below before doing the upgrade. Please <sup id="fnref-1"><a href="#fn-1" rel="footnote">1</a></sup>.</p>
+<h2 id="backup">Backup</h2>
+<p>Remember to always do a backup first before doing an upgrade. I suggest you to make a backup from your blog and your whole openshift gear (your application).</p>
+<ol>
+<li>Go to your <code>blog dashboard</code> &gt; <code>Labs</code> &gt; then hit the <code>Export</code> button. This will export your settings and your content to a json file that you can import whenever you need it.</li>
+<li>Make a <code>snapshot</code> of your cartridge by using this command in your terminal <code>rhc snapshot save &lt;app_name&gt;</code>. You can read about this in <a href="https://developers.openshift.com/managing-your-applications/backing-up-applications.html">here</a>.</li>
+</ol>
+<p><span id="more-154"></span></p>
+<h2 id="update">Update</h2>
+<ul>
+<li>Find the file named <code>package.json</code> right in your App&#8217;s root directory. <strong>Remember. This is not the same file that you can find in <code>/node_modules/ghost/</code></strong>. Open that file then you&#8217;ll see a short number of lines like this</li>
+</ul>
+<pre><code>"dependencies": {
+        "ghost": "^x.x.x"
+    }
+</code></pre>
+<ul>
+<li>. The x.x.x indicates the version of your ghost. Change it to the last version of the ghost, which is <code>0.9.0</code>. save it.</li>
+<li>After that, open your own ghost application folder in terminal by hitting <code>cd &lt;your-application-folder&gt;</code>, then run the command <code>npm update</code>.</li>
+</ul>
+<p>This action will automatically update all the necessary Ghost files for your blog.</p>
+<h2 id="pushthechanges">Push the changes</h2>
+<p>After all of the actions done.<br />
+Then</p>
+<pre><code>git add .  
+git commit -m "Update to Ghost 0.9.0"  
+git push  
+</code></pre>
+<hr />
+<div class="footnotes">
+<ol>
+<li id="fn-1" class="footnote"><a title="return to article" href="#fnref-1"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/21a9.png" alt="↩" class="wp-smiley" style="height: 1em; max-height: 1em;" /></a></li>
+</ol>
+</div>
+<p><strong>Update</strong>: If your blog failed to start or if you face an error like this one <code>Failed to execute: 'control restart' for /var/lib/app_root/myID/index.js</code>. Please do the steps below before updating your ghost.</p>
+<ol>
+<li>Simply open the file named <code>package.json</code> in folder <code>/node_modules/ghost/</code>.</li>
+<li>Find the line <code>"main": "./core/index"</code>, change it to be <code>"main": "./core/index.js"</code> and save it.</li>
+</ol>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2016/08/04/update-ghost-0-9-0-using-openshift-quickstart/feed/</wfw:commentRss>
+			<slash:comments>8</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">154</post-id>	</item>
+		<item>
+		<title>Update Ghost 0.8.0 Using Openshift Quickstart</title>
+		<link>/2016/06/04/update-ghost-0-8-0-using-openshift-quickstart/</link>
+					<comments>/2016/06/04/update-ghost-0-8-0-using-openshift-quickstart/#comments</comments>
+		
+		<dc:creator><![CDATA[norsasono]]></dc:creator>
+		<pubDate>Sat, 04 Jun 2016 20:26:24 +0000</pubDate>
+				<category><![CDATA[Tutorial]]></category>
+		<category><![CDATA[Blog]]></category>
+		<category><![CDATA[EN]]></category>
+		<guid isPermaLink="false">http://blog-gulajawa.rhcloud.com/2016/06/03/update-ghost-0-8-0-using-openshift-quickstart/</guid>
+
+					<description><![CDATA[I don&#8217;t know why the repository of Openshift Ghost Quickstart seems to be abandoned since January 2016. I mean, like there isn&#8217;t any activity from the developer behind the Openshift team. That&#8217;s why I initiated to start to write this post, because I believe that there are many of people like me trying to solve [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>I don&#8217;t know why the repository of Openshift Ghost Quickstart seems to be abandoned since January 2016. I mean, like there isn&#8217;t any activity from the developer behind the Openshift team. That&#8217;s why I initiated to start to write this post, because I believe that there are many of people like me trying to solve this problem. Yes, the problem to update the Ghost core to the recent version.</p>
+<p><span id="more-144"></span></p>
+<p>I found a very good repository of <a href="https://github.com/MunGell">MunGell</a>. He forked it from the main repository of <a href="https://github.com/openshift-quickstart/openshift-ghost-quickstart">Openshift Ghost Quickstart</a> and tried to make a self-update for the Ghost installation, of course it is 0.8.0.</p>
+<p><img decoding="async" src="/content/images/2016/06/ghost-0-8-0.png" alt="Ghost Admin Panel" /></p>
+<p>Here are the steps or tutorial on how to update your Ghost to the version 0.8.0.</p>
+<p><strong>I assume that you already clone your own ghost application in to your local machine.</strong></p>
+<ol>
+<li>Go and download <a href="https://github.com/MunGell/openshift-ghost-quickstart">this repository</a> then extract it.</li>
+<li>Copy<code>content</code> and <code>node_module</code> folder and also the file named <code>package.json</code></li>
+<li>Go to your ghost-application folder. Paste and merge it.</li>
+<li>Open your own ghost-application folder in terminal by hitting <code>cd your-ghost-application-folder</code>.</li>
+</ol>
+<p>Then</p>
+<pre><code>git add .  
+git commit -m "Update to Ghost 0.8.0"  
+git push  
+</code></pre>
+<p><strong>Note:</strong> It will also delete your default Casper theme configuration, so be wise enough to make a back up first.</p>
+<hr />
+<div class="footnotes">
+<ol>
+<li id="fn-1" class="footnote"><strong>Credit:</strong> <a href="https://github.com/MunGell">MunGell</a> <a title="return to article" href="#fnref-1"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/21a9.png" alt="↩" class="wp-smiley" style="height: 1em; max-height: 1em;" /></a></li>
+</ol>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2016/06/04/update-ghost-0-8-0-using-openshift-quickstart/feed/</wfw:commentRss>
+			<slash:comments>8</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">144</post-id>	</item>
+	</channel>
+</rss>

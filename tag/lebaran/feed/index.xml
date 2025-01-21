@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Lebaran &#8211; Noreta Agus Sasono</title>
+	<atom:link href="/tag/lebaran/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pikiran, Ide, dan Gagasan</description>
+	<lastBuildDate>Sun, 24 May 2020 12:17:39 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2020/03/wp-1585135739501.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>Lebaran &#8211; Noreta Agus Sasono</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">123076682</site>	<item>
+		<title>Selamat Idul Fitri 1441 H</title>
+		<link>/2020/05/24/selamat-idul-fitri-1441-h/</link>
+					<comments>/2020/05/24/selamat-idul-fitri-1441-h/#respond</comments>
+		
+		<dc:creator><![CDATA[norsasono]]></dc:creator>
+		<pubDate>Sun, 24 May 2020 12:16:19 +0000</pubDate>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[Lebaran]]></category>
+		<guid isPermaLink="false">/2020/05/24/selamat-idul-fitri-1441-h/</guid>
+
+					<description><![CDATA[Taqobalallahu minna wa minkum. Mohon maaf lahir dan batin. Noreta &#38; Selfiana]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-image"><figure class="aligncenter size-large"><img data-recalc-dims="1" fetchpriority="high" decoding="async" width="560" height="560" src="https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2020/05/img_20200524_093821_0141289190799419345717.jpg?resize=560%2C560&#038;ssl=1" alt="" class="wp-image-1379" srcset="https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2020/05/img_20200524_093821_0141289190799419345717.jpg?resize=1024%2C1024&amp;ssl=1 1024w, https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2020/05/img_20200524_093821_0141289190799419345717.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2020/05/img_20200524_093821_0141289190799419345717.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2020/05/img_20200524_093821_0141289190799419345717.jpg?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2020/05/img_20200524_093821_0141289190799419345717.jpg?resize=600%2C600&amp;ssl=1 600w, https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2020/05/img_20200524_093821_0141289190799419345717.jpg?w=1080&amp;ssl=1 1080w" sizes="(max-width: 560px) 100vw, 560px" /></figure></div>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p>Taqobalallahu minna wa minkum. Mohon maaf lahir dan batin.</p><cite>Noreta &amp; Selfiana</cite></blockquote>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/05/24/selamat-idul-fitri-1441-h/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1380</post-id>	</item>
+	</channel>
+</rss>

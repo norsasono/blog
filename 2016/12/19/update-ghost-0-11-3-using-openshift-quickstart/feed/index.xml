@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Update Ghost 0.11.3 [Openshift]	</title>
+	<atom:link href="/2016/12/19/update-ghost-0-11-3-using-openshift-quickstart/feed/" rel="self" type="application/rss+xml" />
+	<link>/2016/12/19/update-ghost-0-11-3-using-openshift-quickstart/</link>
+	<description>Pikiran, Ide, dan Gagasan</description>
+	<lastBuildDate>Tue, 24 Mar 2020 17:54:20 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>
+		By: Deploying The Latest Ghost on Openshift &#8211; Noreta Agus Sasono		</title>
+		<link>/2016/12/19/update-ghost-0-11-3-using-openshift-quickstart/#comment-45</link>
+
+		<dc:creator><![CDATA[Deploying The Latest Ghost on Openshift &#8211; Noreta Agus Sasono]]></dc:creator>
+		<pubDate>Tue, 24 Mar 2020 17:54:20 +0000</pubDate>
+		<guid isPermaLink="false">http://blog-gulajawa.rhcloud.com/2016/12/18/update-ghost-0-11-3-using-openshift-quickstart/#comment-45</guid>
+
+					<description><![CDATA[[&#8230;] Openshift doesn’t provide you neither the recommended Node.js nor the required version to install latest stable Ghost on their server and it will cause problems if you update your recent Ghost app. The last known version you can is Ghost 0.11.7. You can read the comments from potatoefist on this post. [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Openshift doesn’t provide you neither the recommended Node.js nor the required version to install latest stable Ghost on their server and it will cause problems if you update your recent Ghost app. The last known version you can is Ghost 0.11.7. You can read the comments from potatoefist on this post. [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: potatoefist		</title>
+		<link>/2016/12/19/update-ghost-0-11-3-using-openshift-quickstart/#comment-44</link>
+
+		<dc:creator><![CDATA[potatoefist]]></dc:creator>
+		<pubDate>Fri, 10 Mar 2017 06:50:51 +0000</pubDate>
+		<guid isPermaLink="false">http://blog-gulajawa.rhcloud.com/2016/12/18/update-ghost-0-11-3-using-openshift-quickstart/#comment-44</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/2016/12/19/update-ghost-0-11-3-using-openshift-quickstart/#comment-43&quot;&gt;Sasono&lt;/a&gt;.
+
+I can confirm this worked. Went from 0.7.5 to 0.11.7. I only ran into a problem in my json file. I had quotes that didn&#039;t work well and had to copy good ones from elsewhere in the document. Thanks again. This was a really great thing to have.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/2016/12/19/update-ghost-0-11-3-using-openshift-quickstart/#comment-43">Sasono</a>.</p>
+<p>I can confirm this worked. Went from 0.7.5 to 0.11.7. I only ran into a problem in my json file. I had quotes that didn&#8217;t work well and had to copy good ones from elsewhere in the document. Thanks again. This was a really great thing to have.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Sasono		</title>
+		<link>/2016/12/19/update-ghost-0-11-3-using-openshift-quickstart/#comment-43</link>
+
+		<dc:creator><![CDATA[Sasono]]></dc:creator>
+		<pubDate>Sat, 04 Mar 2017 23:09:07 +0000</pubDate>
+		<guid isPermaLink="false">http://blog-gulajawa.rhcloud.com/2016/12/18/update-ghost-0-11-3-using-openshift-quickstart/#comment-43</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/2016/12/19/update-ghost-0-11-3-using-openshift-quickstart/#comment-38&quot;&gt;potatoefist&lt;/a&gt;.
+
+Sure you can directly update your blog.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/2016/12/19/update-ghost-0-11-3-using-openshift-quickstart/#comment-38">potatoefist</a>.</p>
+<p>Sure you can directly update your blog.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: potatoefist		</title>
+		<link>/2016/12/19/update-ghost-0-11-3-using-openshift-quickstart/#comment-38</link>
+
+		<dc:creator><![CDATA[potatoefist]]></dc:creator>
+		<pubDate>Fri, 03 Mar 2017 12:06:40 +0000</pubDate>
+		<guid isPermaLink="false">http://blog-gulajawa.rhcloud.com/2016/12/18/update-ghost-0-11-3-using-openshift-quickstart/#comment-38</guid>
+
+					<description><![CDATA[Is this good from the hosted 0.7.5 to 0.11.7?]]></description>
+			<content:encoded><![CDATA[<p>Is this good from the hosted 0.7.5 to 0.11.7?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Amir Deljuyi		</title>
+		<link>/2016/12/19/update-ghost-0-11-3-using-openshift-quickstart/#comment-39</link>
+
+		<dc:creator><![CDATA[Amir Deljuyi]]></dc:creator>
+		<pubDate>Fri, 24 Feb 2017 05:36:23 +0000</pubDate>
+		<guid isPermaLink="false">http://blog-gulajawa.rhcloud.com/2016/12/18/update-ghost-0-11-3-using-openshift-quickstart/#comment-39</guid>
+
+					<description><![CDATA[openshift-quickstart used node v 0.10 how upgrade my node version to 4.2
+Thank you]]></description>
+			<content:encoded><![CDATA[<p>openshift-quickstart used node v 0.10 how upgrade my node version to 4.2<br />
+Thank you</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Sasono		</title>
+		<link>/2016/12/19/update-ghost-0-11-3-using-openshift-quickstart/#comment-42</link>
+
+		<dc:creator><![CDATA[Sasono]]></dc:creator>
+		<pubDate>Wed, 22 Feb 2017 01:27:54 +0000</pubDate>
+		<guid isPermaLink="false">http://blog-gulajawa.rhcloud.com/2016/12/18/update-ghost-0-11-3-using-openshift-quickstart/#comment-42</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/2016/12/19/update-ghost-0-11-3-using-openshift-quickstart/#comment-40&quot;&gt;marcoib&lt;/a&gt;.
+
+Great to hear it.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/2016/12/19/update-ghost-0-11-3-using-openshift-quickstart/#comment-40">marcoib</a>.</p>
+<p>Great to hear it.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: marcoib		</title>
+		<link>/2016/12/19/update-ghost-0-11-3-using-openshift-quickstart/#comment-40</link>
+
+		<dc:creator><![CDATA[marcoib]]></dc:creator>
+		<pubDate>Tue, 21 Feb 2017 08:03:51 +0000</pubDate>
+		<guid isPermaLink="false">http://blog-gulajawa.rhcloud.com/2016/12/18/update-ghost-0-11-3-using-openshift-quickstart/#comment-40</guid>
+
+					<description><![CDATA[This is the best available guide ANYWHERE!
+Thank you!]]></description>
+			<content:encoded><![CDATA[<p>This is the best available guide ANYWHERE!<br />
+Thank you!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Tomas Kupka		</title>
+		<link>/2016/12/19/update-ghost-0-11-3-using-openshift-quickstart/#comment-41</link>
+
+		<dc:creator><![CDATA[Tomas Kupka]]></dc:creator>
+		<pubDate>Fri, 20 Jan 2017 05:06:43 +0000</pubDate>
+		<guid isPermaLink="false">http://blog-gulajawa.rhcloud.com/2016/12/18/update-ghost-0-11-3-using-openshift-quickstart/#comment-41</guid>
+
+					<description><![CDATA[Thank you, I will give it a try!]]></description>
+			<content:encoded><![CDATA[<p>Thank you, I will give it a try!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

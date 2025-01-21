@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Linux &#8211; Noreta Agus Sasono</title>
+	<atom:link href="/category/linux/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pikiran, Ide, dan Gagasan</description>
+	<lastBuildDate>Tue, 12 May 2020 02:02:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2020/03/wp-1585135739501.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>Linux &#8211; Noreta Agus Sasono</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">123076682</site>	<item>
+		<title>Mencoba Pop!_OS 20.04</title>
+		<link>/2020/05/10/mencoba-pop_os-20-04/</link>
+					<comments>/2020/05/10/mencoba-pop_os-20-04/#respond</comments>
+		
+		<dc:creator><![CDATA[norsasono]]></dc:creator>
+		<pubDate>Sun, 10 May 2020 15:39:24 +0000</pubDate>
+				<category><![CDATA[Computer]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Personal]]></category>
+		<category><![CDATA[Pop!_OS]]></category>
+		<guid isPermaLink="false">/?p=1366</guid>
+
+					<description><![CDATA[Kemarin saya baru install Pop!_OS versi 20.04 di mesin Toshiba baru saya, basisnya dari Ubuntu 20.04 LTS. Sepertinya enak juga ini, kalau baca dari beberapa review katanya lebih ringan daripada Ubuntu 20.04 LTS. Pop OS ini bawa Flathub secara default disamping Pop!_Shop sebagai App Manager, jadi bisa tinggal pilih mau pasang aplikasi versi default store [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Kemarin saya baru install Pop!_OS versi 20.04 di mesin Toshiba baru saya, basisnya dari Ubuntu 20.04 LTS. Sepertinya enak juga ini, kalau baca dari beberapa review katanya lebih ringan daripada Ubuntu 20.04 LTS. </p>
+
+
+
+<p>Pop OS ini bawa Flathub secara default disamping Pop!_Shop sebagai App Manager, jadi bisa tinggal pilih mau pasang aplikasi versi default store atau Flatpak yang biasanya lebih <em>up-to-date</em>.</p>
+
+
+
+<p>Oh ya, Pop!_OS ini juga pakai GNOME sebagai desktop environtmentnya. Dan karena semenjak dulu saya pakainya Ubuntu Unity &amp; GNOME, jadi tampilannya saya buat sama seperti yang dulu. Saya gak terlalu suka tampilan default GNOME dengan lokasi dash di atas, sagat sangat tidak enak dilihat. Jadi saya ganti dengan <a href="https://extensions.gnome.org/extension/1228/arc-menu/" target="_blank" rel="noreferrer noopener"><strong>Arc Menu</strong></a> (GNOME Extension) dan saya pindah ke bagian bawah pakai <strong><a href="https://extensions.gnome.org/extension/1160/dash-to-panel/" target="_blank" rel="noreferrer noopener">Dash to Panel.</a></strong> </p>
+
+
+
+<p>Tema default Pop!_OS ini sebenarnya sudah ada versi <em>Dark Mode</em>, iconnya juga bagus. Tapi tetep ya, tema juga saya samakan dengan yang lama ?, saya pakai <a rel="noreferrer noopener" href="https://github.com/horst3180/arc-theme" target="_blank"><strong>Arc Theme </strong></a> dan icon saya pakai <strong><a rel="noreferrer noopener" href="https://snwh.org/paper" target="_blank">Paper Icon</a>.</strong></p>
+
+
+
+<h3 class="wp-block-heading">Note:</h3>
+
+
+
+<p>Pop!_OS menggunakan Systemd-boot sebaga bootloader, jadi jika ingin melakukan dual boot system, silahkan install GRUB atau gunakan saja OS Prober, saya sih pakai OS Prober, lebih simple.</p>
+
+
+
+<pre class="wp-block-code"><code>sudo apt install os-prober
+sudo os-prober
+sudo update-grub</code></pre>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/05/10/mencoba-pop_os-20-04/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1366</post-id>	</item>
+		<item>
+		<title>Upgrade Ubuntu 16.04 Xenial Xerus (LTS)</title>
+		<link>/2016/04/26/upgrade-ubuntu-16-04-xenial-xerus-lts/</link>
+					<comments>/2016/04/26/upgrade-ubuntu-16-04-xenial-xerus-lts/#respond</comments>
+		
+		<dc:creator><![CDATA[norsasono]]></dc:creator>
+		<pubDate>Tue, 26 Apr 2016 08:17:27 +0000</pubDate>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Tutorial]]></category>
+		<guid isPermaLink="false">http://blog-gulajawa.rhcloud.com/2016/04/26/upgrade-ubuntu-16-04-xenial-xerus-lts/</guid>
+
+					<description><![CDATA[Yang perlu kalian lakukan hanyalah membuka Software &#38; Updates lalu buka tab Updates. Jika kalian menggunakan Ubuntu versi 15.10 rubah setingan Notify me of a new Ubuntu version menjadi For any new version. Jika kalian menggunakan Ubuntu versi 14.04 rubah setingan Notify me of a new Ubuntu version menjadi For long-term support version. Buka terminal [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/3.bp.blogspot.com/-0piASRZUgBI/Vx-F2yvz4GI/AAAAAAAACLU/UNvRutcrg807tCqcTn1TZEk8Z3AF_r20gCLcB/s1600/Ubuntu-1604-software-settings.png?w=560&#038;ssl=1" alt=""></p>
+<p>Yang perlu kalian lakukan hanyalah membuka <strong>Software &amp; Updates</strong> lalu buka tab <strong>Updates</strong>.</p>
+<ul>
+<li>Jika kalian menggunakan Ubuntu versi <strong>15.10</strong> rubah setingan <strong>Notify me of a new Ubuntu version</strong> menjadi <strong>For any new version</strong>.</li>
+<li>Jika kalian menggunakan Ubuntu versi <strong>14.04</strong> rubah setingan <strong>Notify me of a new Ubuntu version</strong> menjadi <strong>For long-term support version</strong>.</li>
+</ul>
+<p>Buka terminal lalu ketikkan</p>
+<p><span id="more-132"></span></p>
+<pre><code class="language- dash">sudo apt-get update &amp;&amp; sudo apt-get upgrade  
+</code></pre>
+<p>lalu</p>
+<pre><code class="language- dash">sudo apt-get dist-upgrade  
+</code></pre>
+<p>Tunggu sampai proses download dan upgrade selesai, biasanya akan memakan waktu sekitar satu jam, tergantung koneksi yang kalian gunakan.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2016/04/26/upgrade-ubuntu-16-04-xenial-xerus-lts/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">132</post-id>	</item>
+		<item>
+		<title>Instal Driver KexTech USB Wireless Adapter di Ubuntu</title>
+		<link>/2016/03/15/instal-driver-kextech-usb-wireless-adapter-di-ubuntu/</link>
+					<comments>/2016/03/15/instal-driver-kextech-usb-wireless-adapter-di-ubuntu/#respond</comments>
+		
+		<dc:creator><![CDATA[norsasono]]></dc:creator>
+		<pubDate>Tue, 15 Mar 2016 14:50:00 +0000</pubDate>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Tutorial]]></category>
+		<guid isPermaLink="false">http://blog-gulajawa.rhcloud.com/2016/03/15/instal-driver-kextech-usb-wireless-adapter-di-ubuntu/</guid>
+
+					<description><![CDATA[Bagi pengguna USB wireless adapter dari Kextech seperti saya, mungkin Anda akan mengalami sedikit kesulitan dalam penggunaan produk ini pada sistem operasi Linux, terutama Ubuntu. Tidak seperti Broadcomm ataupun Atheros yang hampir semua produk bisa plug and play, produk ini menggunakan Mediatek yang notabene jarang sekali bisa langsung digunakan pada sistem operasi Linux. Berikut adalah [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Bagi pengguna USB wireless adapter dari Kextech seperti saya, mungkin Anda akan mengalami sedikit kesulitan dalam penggunaan produk ini pada sistem operasi Linux, terutama Ubuntu.</p>
+<p>Tidak seperti Broadcomm ataupun Atheros yang hampir semua produk bisa <em>plug and play</em>, produk ini menggunakan Mediatek yang notabene jarang sekali bisa langsung digunakan pada sistem operasi Linux.</p>
+<p>Berikut adalah cara termudah memasang driver KexTech USB Wireless Adapter 150Mbps (Ralink RT7601) di Ubuntu. Buka <em>terminal</em> lalu ketikkan perintah di bawah satu-persatu.</p>
+<p><span id="more-130"></span></p>
+<pre><code class="language- bash">1. sudo apt-get install linux-headers-generic build-essential git  
+2. git clone https://github.com/porjo/mt7601.git  
+3. cd mt7601/src  
+4. make  
+5. sudo make install  
+6. sudo mkdir -p /etc/Wireless/RT2870STA/  
+7. sudo cp RT2870STA.dat /etc/Wireless/RT2870STA/  
+8. sudo modprobe mt7601Usta  
+</code></pre>
+<h4 id="update">Update</h4>
+<p>Saya benar-benar lupa jika kita berada pada kasus dimana kita sama sekali tidak bisa menggunakan koneksi internet jika tidak tidak menggunakan produk ini, lalu bagaimana caranya saya bisa mendownload file driver diatas?</p>
+<p>Salah satu caranya adalah menggunakan CD Driver yang telah disertakan dalam produk.</p>
+<ol>
+<li>Masukkan CD</li>
+<li>Buka folder &#8216;Linux&#8217;</li>
+<li>Buka dan ekstrak file bernama &#8216;MT7601U<em>LinuxAP</em>3.0.0.1_20130802.tar.bz2&#8242;</li>
+<li>Copy folder hasil ekstrak ke direktori &#8216;home&#8217;</li>
+<li>Rubah nama folder menjadi MT7601.</li>
+</ol>
+<p>Langkah selanjutnya sama dengan cara di atas. Buka terminal lalu ketikkan perintah di bawah satu persatu.</p>
+<pre><code class="language- bash">1. cd mt7601  
+2. make  
+3. sudo make install  
+4. sudo mkdir -p /etc/Wireless/RT2870STA/  
+5. sudo cp RT2870STA.dat /etc/Wireless/RT2870STA/  
+6. sudo modprobe mt7601Usta  
+</code></pre>
+<h4 id="update2">Update 2</h4>
+<p>Jika Anda menggunakan Ubuntu versi 15.10 atau dengan Linux kernel versi 4.2, Anda hanya perlu menambahkan firmware yang dibutuhkan, karena driver MT7601 sudah ada pada kernel 4.2.</p>
+<p>Caranya sederhana, cukup copy file dalam direktori <strong>/mcu/bin/MT7601.bin</strong> ke <strong>/lib/firmware/</strong> dengan cara</p>
+<pre><code class="language- bash">1. cd mt7601  
+2. sudo cp /mcu/bin/MT7601.bin /lib/firmware/mt7601u.bin  
+</code></pre>
+<p>Selamat menjelajah .. :surfer:</p>
+<hr />
+<p><strong>Catatan:</strong> Jika Anda melakukan <em>update linux-image</em> terbaru (biasanya <em>device</em> tidak akan bisa duganakan), Anda harus kembali me<em>re-compile</em> dengan cara seperti di bawah.</p>
+<pre><code class="language- bash">cd mt7601/src  
+make clean  
+make  
+sudo make install  
+sudo modprobe mt7601Usta  
+</code></pre>
+<p>Jika Anda menginstal melalui CD Driver, gunakan perintah berikut</p>
+<pre><code class="language- bash">cd mt7601  
+make clean  
+make  
+sudo make install  
+sudo modprobe mt7601Usta  
+</code></pre>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2016/03/15/instal-driver-kextech-usb-wireless-adapter-di-ubuntu/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">130</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Update Ghost 0.9.0 Using Openshift Quickstart	</title>
+	<atom:link href="/2016/08/04/update-ghost-0-9-0-using-openshift-quickstart/feed/" rel="self" type="application/rss+xml" />
+	<link>/2016/08/04/update-ghost-0-9-0-using-openshift-quickstart/</link>
+	<description>Pikiran, Ide, dan Gagasan</description>
+	<lastBuildDate>Sat, 04 Mar 2017 19:56:40 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>
+		By: Update Ghost 0.11.3 [Openshift] &#8211; Noreta Agus Sasono		</title>
+		<link>/2016/08/04/update-ghost-0-9-0-using-openshift-quickstart/#comment-30</link>
+
+		<dc:creator><![CDATA[Update Ghost 0.11.3 [Openshift] &#8211; Noreta Agus Sasono]]></dc:creator>
+		<pubDate>Sat, 04 Mar 2017 19:56:40 +0000</pubDate>
+		<guid isPermaLink="false">http://blog-gulajawa.rhcloud.com/2016/08/02/update-ghost-0-9-0-using-openshift-quickstart/#comment-30</guid>
+
+					<description><![CDATA[[&#8230;] I also try to explain it briefly as I assume that you have read the others posts I wrote before here and [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] I also try to explain it briefly as I assume that you have read the others posts I wrote before here and [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Sasono		</title>
+		<link>/2016/08/04/update-ghost-0-9-0-using-openshift-quickstart/#comment-37</link>
+
+		<dc:creator><![CDATA[Sasono]]></dc:creator>
+		<pubDate>Sun, 18 Dec 2016 22:24:50 +0000</pubDate>
+		<guid isPermaLink="false">http://blog-gulajawa.rhcloud.com/2016/08/02/update-ghost-0-9-0-using-openshift-quickstart/#comment-37</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/2016/08/04/update-ghost-0-9-0-using-openshift-quickstart/#comment-31&quot;&gt;Tomas Kupka&lt;/a&gt;.
+
+I&#039;ve posted the way to update it. see this
+
+/2016/12/18/update-ghost-0-11-3-using-openshift-quickstart/]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/2016/08/04/update-ghost-0-9-0-using-openshift-quickstart/#comment-31">Tomas Kupka</a>.</p>
+<p>I&#8217;ve posted the way to update it. see this</p>
+<p><a href="/2016/12/18/update-ghost-0-11-3-using-openshift-quickstart/" rel="ugc">/2016/12/18/update-ghost-0-11-3-using-openshift-quickstart/</a></p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Tomas Kupka		</title>
+		<link>/2016/08/04/update-ghost-0-9-0-using-openshift-quickstart/#comment-31</link>
+
+		<dc:creator><![CDATA[Tomas Kupka]]></dc:creator>
+		<pubDate>Thu, 08 Dec 2016 04:30:03 +0000</pubDate>
+		<guid isPermaLink="false">http://blog-gulajawa.rhcloud.com/2016/08/02/update-ghost-0-9-0-using-openshift-quickstart/#comment-31</guid>
+
+					<description><![CDATA[ok sounds great, btw. do you have some insights how it will be with further nodejs support by OpenShift? Right I have there the lowest version of nodejs (0.10) installed by the Ghost basic package. Ghost is not supporting anymore this version of nodejs. Is there some trick to use latest nodejs on the OpenShift to continue using latest Ghost? Many thanks! Tomas]]></description>
+			<content:encoded><![CDATA[<p>ok sounds great, btw. do you have some insights how it will be with further nodejs support by OpenShift? Right I have there the lowest version of nodejs (0.10) installed by the Ghost basic package. Ghost is not supporting anymore this version of nodejs. Is there some trick to use latest nodejs on the OpenShift to continue using latest Ghost? Many thanks! Tomas</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Sasono		</title>
+		<link>/2016/08/04/update-ghost-0-9-0-using-openshift-quickstart/#comment-36</link>
+
+		<dc:creator><![CDATA[Sasono]]></dc:creator>
+		<pubDate>Mon, 05 Dec 2016 23:21:19 +0000</pubDate>
+		<guid isPermaLink="false">http://blog-gulajawa.rhcloud.com/2016/08/02/update-ghost-0-9-0-using-openshift-quickstart/#comment-36</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/2016/08/04/update-ghost-0-9-0-using-openshift-quickstart/#comment-34&quot;&gt;Sibelius&lt;/a&gt;.
+
+Sorry. Could you explain it clearer? I already have updated the core to 0.11.3. Also with the same way.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/2016/08/04/update-ghost-0-9-0-using-openshift-quickstart/#comment-34">Sibelius</a>.</p>
+<p>Sorry. Could you explain it clearer? I already have updated the core to 0.11.3. Also with the same way.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Sasono		</title>
+		<link>/2016/08/04/update-ghost-0-9-0-using-openshift-quickstart/#comment-35</link>
+
+		<dc:creator><![CDATA[Sasono]]></dc:creator>
+		<pubDate>Mon, 05 Dec 2016 23:20:35 +0000</pubDate>
+		<guid isPermaLink="false">http://blog-gulajawa.rhcloud.com/2016/08/02/update-ghost-0-9-0-using-openshift-quickstart/#comment-35</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/2016/08/04/update-ghost-0-9-0-using-openshift-quickstart/#comment-32&quot;&gt;Tomas Kupka&lt;/a&gt;.
+
+I did that locally. I already have updated the core to 0.11.3. Also with the same way.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/2016/08/04/update-ghost-0-9-0-using-openshift-quickstart/#comment-32">Tomas Kupka</a>.</p>
+<p>I did that locally. I already have updated the core to 0.11.3. Also with the same way.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Tomas Kupka		</title>
+		<link>/2016/08/04/update-ghost-0-9-0-using-openshift-quickstart/#comment-32</link>
+
+		<dc:creator><![CDATA[Tomas Kupka]]></dc:creator>
+		<pubDate>Sat, 29 Oct 2016 20:10:40 +0000</pubDate>
+		<guid isPermaLink="false">http://blog-gulajawa.rhcloud.com/2016/08/02/update-ghost-0-9-0-using-openshift-quickstart/#comment-32</guid>
+
+					<description><![CDATA[Hi Noreta! thanks again for this tutorial. I&#039;ve got a question where I&#039;m not sure before I continue...the &quot;npm update&quot; command is done locally before &quot;git push&quot; or on the openshift via terminal? Thnx Tomas]]></description>
+			<content:encoded><![CDATA[<p>Hi Noreta! thanks again for this tutorial. I&#8217;ve got a question where I&#8217;m not sure before I continue&#8230;the &#8220;npm update&#8221; command is done locally before &#8220;git push&#8221; or on the openshift via terminal? Thnx Tomas</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: fugabi		</title>
+		<link>/2016/08/04/update-ghost-0-9-0-using-openshift-quickstart/#comment-33</link>
+
+		<dc:creator><![CDATA[fugabi]]></dc:creator>
+		<pubDate>Wed, 05 Oct 2016 18:00:42 +0000</pubDate>
+		<guid isPermaLink="false">http://blog-gulajawa.rhcloud.com/2016/08/02/update-ghost-0-9-0-using-openshift-quickstart/#comment-33</guid>
+
+					<description><![CDATA[right! the simplest and most efficient way to do it. thanks!]]></description>
+			<content:encoded><![CDATA[<p>right! the simplest and most efficient way to do it. thanks!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Sibelius		</title>
+		<link>/2016/08/04/update-ghost-0-9-0-using-openshift-quickstart/#comment-34</link>
+
+		<dc:creator><![CDATA[Sibelius]]></dc:creator>
+		<pubDate>Mon, 26 Sep 2016 18:05:34 +0000</pubDate>
+		<guid isPermaLink="false">http://blog-gulajawa.rhcloud.com/2016/08/02/update-ghost-0-9-0-using-openshift-quickstart/#comment-34</guid>
+
+					<description><![CDATA[Thanks mate! Didn&#039;t know the package.json part and wondered why it&#039;s not working that way]]></description>
+			<content:encoded><![CDATA[<p>Thanks mate! Didn&#8217;t know the package.json part and wondered why it&#8217;s not working that way</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

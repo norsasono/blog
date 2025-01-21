@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Info &#8211; Noreta Agus Sasono</title>
+	<atom:link href="/tag/info/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pikiran, Ide, dan Gagasan</description>
+	<lastBuildDate>Fri, 27 Mar 2020 02:56:12 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2020/03/wp-1585135739501.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>Info &#8211; Noreta Agus Sasono</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">123076682</site>	<item>
+		<title>Mau, Blog dan Domain .my.id Gratis dari PANDI?</title>
+		<link>/2017/04/21/mau-blog-dan-domain-gratis-my-id-dari-pandi/</link>
+					<comments>/2017/04/21/mau-blog-dan-domain-gratis-my-id-dari-pandi/#respond</comments>
+		
+		<dc:creator><![CDATA[norsasono]]></dc:creator>
+		<pubDate>Fri, 21 Apr 2017 15:16:44 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Tutorial]]></category>
+		<category><![CDATA[Info]]></category>
+		<category><![CDATA[Internet]]></category>
+		<guid isPermaLink="false">/?p=528</guid>
+
+					<description><![CDATA[Mari bergabung di revolusi Identitas Digital Indonesia.
+Cukup gunakan Nomor Induk Kependudukan (NIK) dari KTP anda, dan nikmati kemudahan beraktifitas digital.]]></description>
+										<content:encoded><![CDATA[<p>Sudahkan tahukan Anda dengan program PANDI (Pengelola Nama Domain Indonesia) terbaru yang satu ini? Bersyukurlah karena dengan adanya program ini kita akan mendapatkan satu domain gratis dengan ekstensi .my.id beserta satu blog gratis pula dengan platform WordPress Multiuser. Atau anggap saja kalian akan mendapatkan satu blog WordPress beserta domain my.id gratis tis tis. Contohnya <strong><a href="http://sasono.my.id/" target="_blank" rel="noopener noreferrer">http://sasono.my.id/ </a></strong>Uhuk ..</p>
+<h1><a href="/2017/04/21/mau-blog-dan-domain-gratis-my-id-dari-pandi/pandi-e-id/" rel="attachment wp-att-534"><img data-recalc-dims="1" fetchpriority="high" decoding="async" class="aligncenter wp-image-534 size-full" src="https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-e.id_-e1492795022378.png?resize=560%2C226" alt="" width="560" height="226" srcset="https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-e.id_-e1492795022378.png?w=1353&amp;ssl=1 1353w, https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-e.id_-e1492795022378.png?resize=300%2C121&amp;ssl=1 300w, https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-e.id_-e1492795022378.png?resize=1024%2C414&amp;ssl=1 1024w, https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-e.id_-e1492795022378.png?resize=768%2C310&amp;ssl=1 768w, https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-e.id_-e1492795022378.png?resize=1200%2C485&amp;ssl=1 1200w, https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-e.id_-e1492795022378.png?w=1120&amp;ssl=1 1120w" sizes="(max-width: 560px) 100vw, 560px" /></a>How Does It Work?</h1>
+<p>Seperti yang tertulis di halaman awal <a href="http://demo.e.id/" target="_blank" rel="noopener noreferrer">demo.e.id</a>.</p>
+<blockquote><p>Mari bergabung di revolusi Identitas Digital Indonesia.<br />
+Cukup gunakan Nomor Induk Kependudukan (NIK) dari KTP anda, dan nikmati kemudahan beraktifitas digital.</p></blockquote>
+<p><span id="more-528"></span></p>
+<p>Program ini menggunakan data yang ada atau yang telah terdaftar dalam e-KTP.&nbsp; Karena dalam proses registrasi kalian akan diminta untuk memasukkan NIK (Nomor Induk Kependudukan) yang terdapat pada e-KTP kalian masing-masing. Jadi bagi kalian yang sekarang telah memiliki e-KTP kalian akan dapat menggunakan layanan ini. Oh ya, layanan ini masih bersifat beta, jadi silahkan mencoba dan daftarkan domain yang kalian inginkan sebelum diambil orang lain.</p>
+<h1>Cara Pendaftaran</h1>
+<ol>
+<li>Buka halaman <a href="http://demo.e.id/" target="_blank" rel="noopener noreferrer">demo.e.id</a> dan lakukan registrasi dengan klik tombol <strong>Mendaftar. </strong>Lalu isi form seperti yang terlihat di bawah yang berisi NIK, Nama ibu, Nomor ponsel, alamat email, dan kata sandi (yang menggunakan minimal 8 karakter yang terdiri dari kombinasi huruf besar, huruf kecil, angka dan symbol seperti : !@#$%^&amp;). Jangan lupa ceklis untuk menyetujui syarat dan ketentuan serta CAPTCHA.<a href="/2017/04/21/mau-blog-dan-domain-gratis-my-id-dari-pandi/pandi-e-id-register-akun/" rel="attachment wp-att-536"><img data-recalc-dims="1" decoding="async" class="aligncenter size-full wp-image-536" src="https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-e-id-register-akun.png?resize=560%2C814" alt="" width="560" height="814" srcset="https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-e-id-register-akun.png?w=700&amp;ssl=1 700w, https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-e-id-register-akun.png?resize=206%2C300&amp;ssl=1 206w" sizes="(max-width: 560px) 100vw, 560px" /></a></li>
+<li>Buka alamat email yang kalian gunakan dalam pendaftaran di awal untuk melakukan konfirmasi.</li>
+<li>Silahkan kembali ke halaman <a href="http://demo.e.id/" target="_blank" rel="noopener noreferrer">demo.e.id </a>untuk melakukan login menggunakan NIK/alamat email serta password dalam pendaftaran. Seperti inilah halaman profil milik saya.<a href="/2017/04/21/mau-blog-dan-domain-gratis-my-id-dari-pandi/pandi-profil-e-id/" rel="attachment wp-att-537"><img data-recalc-dims="1" decoding="async" class="aligncenter size-large wp-image-537" src="https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-profil-e.id_-1024x970.png?resize=560%2C531" alt="" width="560" height="531" srcset="https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-profil-e.id_.png?resize=1024%2C970&amp;ssl=1 1024w, https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-profil-e.id_.png?resize=300%2C284&amp;ssl=1 300w, https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-profil-e.id_.png?resize=768%2C727&amp;ssl=1 768w, https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-profil-e.id_.png?resize=1200%2C1136&amp;ssl=1 1200w, https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-profil-e.id_.png?w=1353&amp;ssl=1 1353w, https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-profil-e.id_.png?w=1120&amp;ssl=1 1120w" sizes="(max-width: 560px) 100vw, 560px" /></a></li>
+<li>Silahkan kembali ke halaman <a href="http://www.my.id/" target="_blank" rel="noopener noreferrer">http://www.my.id/</a> lalu klik menu BUAT <strong>TULISAN/DAFTAR </strong>seperti pada gambar di bawah.<a href="/2017/04/21/mau-blog-dan-domain-gratis-my-id-dari-pandi/pandi-daftar-blog/" rel="attachment wp-att-538"><img data-recalc-dims="1" loading="lazy" decoding="async" class="aligncenter size-large wp-image-538" src="https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-Daftar-blog-1024x486.png?resize=560%2C266" alt="" width="560" height="266"></a></li>
+<li>Masukkan Judul blog dan alamat/domain yang kalian inginkan. Misal <a href="http://sasono.my.id/" target="_blank" rel="noopener noreferrer">sasono.my.id</a> <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Tunggu proses pendaftaran sekitar 15-30 menit (biasanya tidak sampai satu menit sih).<a href="/2017/04/21/mau-blog-dan-domain-gratis-my-id-dari-pandi/pandi-selamat-datang/" rel="attachment wp-att-539"><img data-recalc-dims="1" loading="lazy" decoding="async" class="aligncenter size-large wp-image-539" src="https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-selamat-datang-1024x481.png?resize=560%2C263" alt="" width="560" height="263" srcset="https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-selamat-datang.png?resize=1024%2C481&amp;ssl=1 1024w, https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-selamat-datang.png?resize=300%2C141&amp;ssl=1 300w, https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-selamat-datang.png?resize=768%2C361&amp;ssl=1 768w, https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-selamat-datang.png?resize=1200%2C564&amp;ssl=1 1200w, https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-selamat-datang.png?w=1366&amp;ssl=1 1366w, https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-selamat-datang.png?w=1120&amp;ssl=1 1120w" sizes="(max-width: 560px) 100vw, 560px" /></a></li>
+<li>Selamat, sekarang kalian sudah memiliki sebuah blog beserta domain .my.id gratis dengan mesin WordPress. <em>So familiar, huh?<a href="/2017/04/21/mau-blog-dan-domain-gratis-my-id-dari-pandi/pandi-blog-dashboard/" rel="attachment wp-att-540"><img data-recalc-dims="1" loading="lazy" decoding="async" class="aligncenter size-large wp-image-540" src="https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-blog-dashboard-1024x481.png?resize=560%2C263" alt="" width="560" height="263" srcset="https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-blog-dashboard.png?resize=1024%2C481&amp;ssl=1 1024w, https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-blog-dashboard.png?resize=300%2C141&amp;ssl=1 300w, https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-blog-dashboard.png?resize=768%2C361&amp;ssl=1 768w, https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-blog-dashboard.png?resize=1200%2C564&amp;ssl=1 1200w, https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-blog-dashboard.png?w=1366&amp;ssl=1 1366w, https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/PANDI-blog-dashboard.png?w=1120&amp;ssl=1 1120w" sizes="(max-width: 560px) 100vw, 560px" /></a></em></li>
+</ol>
+<h1>Catatan</h1>
+<ol>
+<li>Layanan blog gratis ini sayangnya hanya menyediakan space sebesar 100MB, jadi bisa dipastikan kalian tidak bisa mengunggah terlalu banyak gambar. Saran saya, gunakan source gambar di tempat lain semisal Blogger, WordPress.com atau yang lain. Biar hemat ya gaes.</li>
+<li>Layanan blog gratis ini tidak memperkenankan kalian menggunakan plugin maupun tema tambahan. Tema bawaan yang disediakan hanya berjumlah 4 (Twenty Seventeen, Libre, Twenty Sixteen, dan Twenty Fifteen.</li>
+<li>Meskipun menggunakan platform WordPress, untuk melakukan login ke layanan blog ini kalian <strong>tidak dapat</strong> melakukan login melalui <strong>domain.my.id/wp-login.</strong> Silahkan melakukannya dengan membuka halaman <a href="http://demo.e.id/" target="_blank" rel="noopener noreferrer"><strong>demo.e.id</strong></a> dan masuk menggunakan <strong>NIK/email</strong> serta <strong>password</strong> yang kalian gunakan<strong>.</strong> Atau melalui halaman <a href="http://www.my.id/" target="_blank" rel="noopener noreferrer"><strong>www.my.id</strong></a>.</li>
+</ol>
+<p>Catatan tambahan akan saya cantumkan menyusul.</p>
+<p>Happy blogging .. <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2017/04/21/mau-blog-dan-domain-gratis-my-id-dari-pandi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">528</post-id>	</item>
+		<item>
+		<title>[INFO] Registrasi Keanggotaan Perpustakaan Nasional RI</title>
+		<link>/2016/12/26/info-registrasi-keanggotaan-perpustakaan-nasional-ri/</link>
+					<comments>/2016/12/26/info-registrasi-keanggotaan-perpustakaan-nasional-ri/#respond</comments>
+		
+		<dc:creator><![CDATA[norsasono]]></dc:creator>
+		<pubDate>Mon, 26 Dec 2016 06:31:09 +0000</pubDate>
+				<category><![CDATA[Info]]></category>
+		<guid isPermaLink="false">http://blog-gulajawa.rhcloud.com/2016/12/26/info-registrasi-keanggotaan-perpustakaan-nasional-ri-2/</guid>
+
+					<description><![CDATA[Memiliki rujukan sumber informasi yang kredibel dan memiliki skala yang luas yang mencangkup beberapa disiplin ilmu serta genre merupakan hal penting dalam mendapatkan informasi yang akurat serta dapat dipercaya. Dan saat ini, Perpustakaan Nasional RI telah melanggan beberapa Database Jurnal Nasional dan Internasional terkemuka untuk berbagai bidang ilmu. Di antaranya: 1. Alexander Street Press 2. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Memiliki rujukan sumber informasi yang kredibel dan memiliki skala yang luas yang mencangkup beberapa disiplin ilmu serta genre merupakan hal penting dalam mendapatkan informasi yang akurat serta dapat dipercaya.</p>
+<p>Dan saat ini, Perpustakaan Nasional RI telah melanggan beberapa Database Jurnal Nasional dan Internasional terkemuka untuk berbagai bidang ilmu.</p>
+<p><span id="more-157"></span></p>
+<p>Di antaranya:<br />
+1. Alexander Street Press<br />
+2. Alexander Street Video<br />
+3. Balai Pustaka<br />
+4. Brill Online<br />
+5. Cambridge University Press<br />
+6. Cengage Learning<br />
+7. Ebrary<br />
+8. Ebsco Host<br />
+9. IGI Global<br />
+10. IG Publishing<br />
+11. Indonesia Heritage Digital Library<br />
+12. Digital Angkasa<br />
+13. Lexis Nexis<br />
+14. Myilibrary<br />
+15. Proquest<br />
+16. Sage Knowledge<br />
+17. Taylor &amp; Francis<br />
+18. Ulrichs<br />
+19. Westlaw</p>
+<p>(IG Group mencakup koleksi American Library Association, American Society for Training &amp; Development, Amsterdam University Press, Business Expert, Columbia University Press, Hawai, ISEAS, Liverpool University Press, Nias Press, Princeton University Press, RIBA Architecture, dan University Of California Press)</p>
+<p>Anda hanya perlu jadi anggota perpus secara online dan bisa mengakses (mengunduh) jurnal-jurnal tersebut DI MANAPUN ANDA BERADA.</p>
+<h3 id="registrasi">Registrasi:</h3>
+<ol>
+<li>Mendaftar dahulu di <a href="http://keanggotaan.pnri.go.id/daftar.aspx">http://keanggotaan.pnri.go.id/daftar.aspx</a> untuk mendapatkan <strong>nomor keanggotaan PNRI</strong>.</li>
+<li>Masuk ke <a href="http://e-resources.pnri.go.id/">http://e-resources.pnri.go.id/</a> untuk mendaftarkan <strong>username</strong> dan <strong>password</strong> dengan menggunakan nomor keanggotaan PNRI yang telah didapat.</li>
+</ol>
+<p>Pihak Perpustakaan akan mengirimkan email aktivasi akun anda, dan VOILA!</p>
+<hr>
+<p>Mohon bantu menyebarkan ke teman dan kolega yang lain. Mudah-mudahan bisa dimanfaatkan secara optimal, karena langganan email ini dibiayai uang rakyat.</p>
+<p>Mohon dishare seluas-luasnya.</p>
+<p><strong>Call Center</strong></p>
+<p>PNRI<br />
+National Digital Library<br />
+0800-1-737787<br />
+(Name &amp; Membership ID)</p>
+<p><em>Semoga bermanfaat</em></p>
+<hr>
+<p>Sangat bermanfaat untuk mahasiswa maupun pelajar.<br />
+Sangat diperlukan saat mengerjakan tugas² mereka, utamanya saat tugas akhir.</p>
+<hr>
+<p>Terima kasih. Digital Library PNRI<br />
+<a href="http://e-resources.pnri.go.id/">http://e-resources.pnri.go.id/</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2016/12/26/info-registrasi-keanggotaan-perpustakaan-nasional-ri/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">157</post-id>	</item>
+	</channel>
+</rss>

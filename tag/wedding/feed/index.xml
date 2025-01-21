@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Wedding &#8211; Noreta Agus Sasono</title>
+	<atom:link href="/tag/wedding/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pikiran, Ide, dan Gagasan</description>
+	<lastBuildDate>Mon, 03 Apr 2017 17:32:55 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2020/03/wp-1585135739501.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>Wedding &#8211; Noreta Agus Sasono</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">123076682</site>	<item>
+		<title>The Wedding</title>
+		<link>/2017/04/03/the-wedding/</link>
+					<comments>/2017/04/03/the-wedding/#respond</comments>
+		
+		<dc:creator><![CDATA[norsasono]]></dc:creator>
+		<pubDate>Mon, 03 Apr 2017 17:32:55 +0000</pubDate>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[Love]]></category>
+		<category><![CDATA[Wedding]]></category>
+		<guid isPermaLink="false">/?p=480</guid>
+
+					<description><![CDATA[Our new life will begin soon.]]></description>
+										<content:encoded><![CDATA[<p style="text-align: center"><a href="/2017/04/03/the-wedding/invitation/" rel="attachment wp-att-488"><img data-recalc-dims="1" fetchpriority="high" decoding="async" class="aligncenter size-large wp-image-488" src="https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/Invitation-833x1024.jpg?resize=560%2C688" alt="" width="560" height="688" srcset="https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/Invitation.jpg?resize=833%2C1024&amp;ssl=1 833w, https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/Invitation.jpg?resize=244%2C300&amp;ssl=1 244w, https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/Invitation.jpg?resize=768%2C944&amp;ssl=1 768w, https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/Invitation.jpg?w=1200&amp;ssl=1 1200w, https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2017/04/Invitation.jpg?w=1120&amp;ssl=1 1120w" sizes="(max-width: 560px) 100vw, 560px" /></a><a href="http://selfinoreta.info/">http://selfinoreta.info/</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2017/04/03/the-wedding/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">480</post-id>	</item>
+	</channel>
+</rss>

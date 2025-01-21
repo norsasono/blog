@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Pop!_OS &#8211; Noreta Agus Sasono</title>
+	<atom:link href="/tag/pop_os/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pikiran, Ide, dan Gagasan</description>
+	<lastBuildDate>Tue, 12 May 2020 02:02:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2020/03/wp-1585135739501.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>Pop!_OS &#8211; Noreta Agus Sasono</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">123076682</site>	<item>
+		<title>Mencoba Pop!_OS 20.04</title>
+		<link>/2020/05/10/mencoba-pop_os-20-04/</link>
+					<comments>/2020/05/10/mencoba-pop_os-20-04/#respond</comments>
+		
+		<dc:creator><![CDATA[norsasono]]></dc:creator>
+		<pubDate>Sun, 10 May 2020 15:39:24 +0000</pubDate>
+				<category><![CDATA[Computer]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Personal]]></category>
+		<category><![CDATA[Pop!_OS]]></category>
+		<guid isPermaLink="false">/?p=1366</guid>
+
+					<description><![CDATA[Kemarin saya baru install Pop!_OS versi 20.04 di mesin Toshiba baru saya, basisnya dari Ubuntu 20.04 LTS. Sepertinya enak juga ini, kalau baca dari beberapa review katanya lebih ringan daripada Ubuntu 20.04 LTS. Pop OS ini bawa Flathub secara default disamping Pop!_Shop sebagai App Manager, jadi bisa tinggal pilih mau pasang aplikasi versi default store [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Kemarin saya baru install Pop!_OS versi 20.04 di mesin Toshiba baru saya, basisnya dari Ubuntu 20.04 LTS. Sepertinya enak juga ini, kalau baca dari beberapa review katanya lebih ringan daripada Ubuntu 20.04 LTS. </p>
+
+
+
+<p>Pop OS ini bawa Flathub secara default disamping Pop!_Shop sebagai App Manager, jadi bisa tinggal pilih mau pasang aplikasi versi default store atau Flatpak yang biasanya lebih <em>up-to-date</em>.</p>
+
+
+
+<p>Oh ya, Pop!_OS ini juga pakai GNOME sebagai desktop environtmentnya. Dan karena semenjak dulu saya pakainya Ubuntu Unity &amp; GNOME, jadi tampilannya saya buat sama seperti yang dulu. Saya gak terlalu suka tampilan default GNOME dengan lokasi dash di atas, sagat sangat tidak enak dilihat. Jadi saya ganti dengan <a href="https://extensions.gnome.org/extension/1228/arc-menu/" target="_blank" rel="noreferrer noopener"><strong>Arc Menu</strong></a> (GNOME Extension) dan saya pindah ke bagian bawah pakai <strong><a href="https://extensions.gnome.org/extension/1160/dash-to-panel/" target="_blank" rel="noreferrer noopener">Dash to Panel.</a></strong> </p>
+
+
+
+<p>Tema default Pop!_OS ini sebenarnya sudah ada versi <em>Dark Mode</em>, iconnya juga bagus. Tapi tetep ya, tema juga saya samakan dengan yang lama ?, saya pakai <a rel="noreferrer noopener" href="https://github.com/horst3180/arc-theme" target="_blank"><strong>Arc Theme </strong></a> dan icon saya pakai <strong><a rel="noreferrer noopener" href="https://snwh.org/paper" target="_blank">Paper Icon</a>.</strong></p>
+
+
+
+<h3 class="wp-block-heading">Note:</h3>
+
+
+
+<p>Pop!_OS menggunakan Systemd-boot sebaga bootloader, jadi jika ingin melakukan dual boot system, silahkan install GRUB atau gunakan saja OS Prober, saya sih pakai OS Prober, lebih simple.</p>
+
+
+
+<pre class="wp-block-code"><code>sudo apt install os-prober
+sudo os-prober
+sudo update-grub</code></pre>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/05/10/mencoba-pop_os-20-04/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1366</post-id>	</item>
+	</channel>
+</rss>

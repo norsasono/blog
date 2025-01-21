@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Wisata &#8211; Noreta Agus Sasono</title>
+	<atom:link href="/tag/wisata/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pikiran, Ide, dan Gagasan</description>
+	<lastBuildDate>Wed, 21 Jul 2021 02:14:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2020/03/wp-1585135739501.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>Wisata &#8211; Noreta Agus Sasono</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">123076682</site>	<item>
+		<title>Air Terjun Suwono</title>
+		<link>/2021/07/03/air-terjun-suwono/</link>
+					<comments>/2021/07/03/air-terjun-suwono/#respond</comments>
+		
+		<dc:creator><![CDATA[norsasono]]></dc:creator>
+		<pubDate>Sat, 03 Jul 2021 16:21:43 +0000</pubDate>
+				<category><![CDATA[Galeri]]></category>
+		<category><![CDATA[Personal]]></category>
+		<category><![CDATA[Photo]]></category>
+		<category><![CDATA[Ngawi]]></category>
+		<category><![CDATA[Ngrambe]]></category>
+		<category><![CDATA[Wisata]]></category>
+		<guid isPermaLink="false">/?p=1470</guid>
+
+					<description><![CDATA[Air Terjun Suwono, salah satu destinasi wisata alam di Kecamatan Ngrambe, Kabupaten Ngawi. Foto ini sebenarnya diambil di bulan Juli 2012, dan dulu sudah pernah saya posting di blog ini. Saya posting ulang setelah sebelumnya sempat saya arsipkan. Oh iya, di postingan ini fotonya juga sudah saya edit pakai VSCO. Untuk akses menuju lokasi sudah [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-jetpack-tiled-gallery alignwide is-style-rectangular"><div class="tiled-gallery__gallery"><div class="tiled-gallery__row"><div class="tiled-gallery__col" style="flex-basis:66.76814%"><figure class="tiled-gallery__item"><a href="https://i2.wp.com/blog.sasono.web.id/wp-content/uploads/2021/07/suwono-4.jpg?ssl=1"><img decoding="async" srcset="https://i2.wp.com/blog.sasono.web.id/wp-content/uploads/2021/07/suwono-4.jpg?strip=info&#038;w=600&#038;ssl=1 600w,https://i2.wp.com/blog.sasono.web.id/wp-content/uploads/2021/07/suwono-4.jpg?strip=info&#038;w=900&#038;ssl=1 900w,https://i2.wp.com/blog.sasono.web.id/wp-content/uploads/2021/07/suwono-4.jpg?strip=info&#038;w=960&#038;ssl=1 960w" alt="" data-height="720" data-id="1474" data-link="/2021/07/03/air-terjun-suwono/processed-with-vsco-with-a6-preset-3/" data-url="/wp-content/uploads/2021/07/suwono-4.jpg" data-width="960" src="https://i2.wp.com/blog.sasono.web.id/wp-content/uploads/2021/07/suwono-4.jpg?ssl=1" data-amp-layout="responsive"/></a></figure></div><div class="tiled-gallery__col" style="flex-basis:33.23186%"><figure class="tiled-gallery__item"><a href="https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2021/07/suwono-1.jpg?ssl=1"><img decoding="async" srcset="https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2021/07/suwono-1.jpg?strip=info&#038;w=600&#038;ssl=1 600w,https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2021/07/suwono-1.jpg?strip=info&#038;w=900&#038;ssl=1 900w,https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2021/07/suwono-1.jpg?strip=info&#038;w=960&#038;ssl=1 960w" alt="" data-height="720" data-id="1471" data-link="/2021/07/03/air-terjun-suwono/processed-with-vsco-with-a6-preset/" data-url="/wp-content/uploads/2021/07/suwono-1.jpg" data-width="960" src="https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2021/07/suwono-1.jpg?ssl=1" data-amp-layout="responsive"/></a></figure><figure class="tiled-gallery__item"><a href="https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2021/07/suwono-2.jpg?ssl=1"><img decoding="async" srcset="https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2021/07/suwono-2.jpg?strip=info&#038;w=600&#038;ssl=1 600w,https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2021/07/suwono-2.jpg?strip=info&#038;w=900&#038;ssl=1 900w,https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2021/07/suwono-2.jpg?strip=info&#038;w=960&#038;ssl=1 960w" alt="" data-height="720" data-id="1472" data-link="/2021/07/03/air-terjun-suwono/processed-with-vsco-with-a9-preset/" data-url="/wp-content/uploads/2021/07/suwono-2.jpg" data-width="960" src="https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2021/07/suwono-2.jpg?ssl=1" data-amp-layout="responsive"/></a></figure></div></div><div class="tiled-gallery__row"><div class="tiled-gallery__col" style="flex-basis:33.33333%"><figure class="tiled-gallery__item"><a href="https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2021/07/suwono-3.jpg?ssl=1"><img decoding="async" srcset="https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2021/07/suwono-3.jpg?strip=info&#038;w=600&#038;ssl=1 600w,https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2021/07/suwono-3.jpg?strip=info&#038;w=900&#038;ssl=1 900w,https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2021/07/suwono-3.jpg?strip=info&#038;w=960&#038;ssl=1 960w" alt="" data-height="720" data-id="1473" data-link="/2021/07/03/air-terjun-suwono/processed-with-vsco-with-a6-preset-2/" data-url="/wp-content/uploads/2021/07/suwono-3.jpg" data-width="960" src="https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2021/07/suwono-3.jpg?ssl=1" data-amp-layout="responsive"/></a></figure></div><div class="tiled-gallery__col" style="flex-basis:33.33333%"><figure class="tiled-gallery__item"><a href="https://i1.wp.com/blog.sasono.web.id/wp-content/uploads/2021/07/suwono-8.jpg?ssl=1"><img decoding="async" srcset="https://i1.wp.com/blog.sasono.web.id/wp-content/uploads/2021/07/suwono-8.jpg?strip=info&#038;w=600&#038;ssl=1 600w,https://i1.wp.com/blog.sasono.web.id/wp-content/uploads/2021/07/suwono-8.jpg?strip=info&#038;w=900&#038;ssl=1 900w,https://i1.wp.com/blog.sasono.web.id/wp-content/uploads/2021/07/suwono-8.jpg?strip=info&#038;w=960&#038;ssl=1 960w" alt="" data-height="720" data-id="1478" data-link="/2021/07/03/air-terjun-suwono/processed-with-vsco-with-a6-preset-6/" data-url="/wp-content/uploads/2021/07/suwono-8.jpg" data-width="960" src="https://i1.wp.com/blog.sasono.web.id/wp-content/uploads/2021/07/suwono-8.jpg?ssl=1" data-amp-layout="responsive"/></a></figure></div><div class="tiled-gallery__col" style="flex-basis:33.33333%"><figure class="tiled-gallery__item"><a href="https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2021/07/suwono-10.jpg?ssl=1"><img decoding="async" srcset="https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2021/07/suwono-10.jpg?strip=info&#038;w=600&#038;ssl=1 600w,https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2021/07/suwono-10.jpg?strip=info&#038;w=900&#038;ssl=1 900w,https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2021/07/suwono-10.jpg?strip=info&#038;w=960&#038;ssl=1 960w" alt="" data-height="720" data-id="1480" data-link="/2021/07/03/air-terjun-suwono/processed-with-vsco-with-a9-preset-3/" data-url="/wp-content/uploads/2021/07/suwono-10.jpg" data-width="960" src="https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2021/07/suwono-10.jpg?ssl=1" data-amp-layout="responsive"/></a></figure></div></div><div class="tiled-gallery__row"><div class="tiled-gallery__col" style="flex-basis:25.00000%"><figure class="tiled-gallery__item"><a href="https://i2.wp.com/blog.sasono.web.id/wp-content/uploads/2021/07/suwono-5.jpg?ssl=1"><img decoding="async" srcset="https://i2.wp.com/blog.sasono.web.id/wp-content/uploads/2021/07/suwono-5.jpg?strip=info&#038;w=600&#038;ssl=1 600w,https://i2.wp.com/blog.sasono.web.id/wp-content/uploads/2021/07/suwono-5.jpg?strip=info&#038;w=900&#038;ssl=1 900w,https://i2.wp.com/blog.sasono.web.id/wp-content/uploads/2021/07/suwono-5.jpg?strip=info&#038;w=960&#038;ssl=1 960w" alt="" data-height="720" data-id="1475" data-link="/2021/07/03/air-terjun-suwono/processed-with-vsco-with-a6-preset-4/" data-url="/wp-content/uploads/2021/07/suwono-5.jpg" data-width="960" src="https://i2.wp.com/blog.sasono.web.id/wp-content/uploads/2021/07/suwono-5.jpg?ssl=1" data-amp-layout="responsive"/></a></figure></div><div class="tiled-gallery__col" style="flex-basis:25.00000%"><figure class="tiled-gallery__item"><a href="https://i2.wp.com/blog.sasono.web.id/wp-content/uploads/2021/07/suwono-6.jpg?ssl=1"><img decoding="async" srcset="https://i2.wp.com/blog.sasono.web.id/wp-content/uploads/2021/07/suwono-6.jpg?strip=info&#038;w=600&#038;ssl=1 600w,https://i2.wp.com/blog.sasono.web.id/wp-content/uploads/2021/07/suwono-6.jpg?strip=info&#038;w=900&#038;ssl=1 900w,https://i2.wp.com/blog.sasono.web.id/wp-content/uploads/2021/07/suwono-6.jpg?strip=info&#038;w=960&#038;ssl=1 960w" alt="" data-height="720" data-id="1476" data-link="/2021/07/03/air-terjun-suwono/processed-with-vsco-with-a6-preset-5/" data-url="/wp-content/uploads/2021/07/suwono-6.jpg" data-width="960" src="https://i2.wp.com/blog.sasono.web.id/wp-content/uploads/2021/07/suwono-6.jpg?ssl=1" data-amp-layout="responsive"/></a></figure></div><div class="tiled-gallery__col" style="flex-basis:25.00000%"><figure class="tiled-gallery__item"><a href="https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2021/07/suwono-7.jpg?ssl=1"><img decoding="async" srcset="https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2021/07/suwono-7.jpg?strip=info&#038;w=600&#038;ssl=1 600w,https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2021/07/suwono-7.jpg?strip=info&#038;w=900&#038;ssl=1 900w,https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2021/07/suwono-7.jpg?strip=info&#038;w=960&#038;ssl=1 960w" alt="" data-height="720" data-id="1477" data-link="/2021/07/03/air-terjun-suwono/processed-with-vsco-with-a9-preset-2/" data-url="/wp-content/uploads/2021/07/suwono-7.jpg" data-width="960" src="https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2021/07/suwono-7.jpg?ssl=1" data-amp-layout="responsive"/></a></figure></div><div class="tiled-gallery__col" style="flex-basis:25.00000%"><figure class="tiled-gallery__item"><a href="https://i2.wp.com/blog.sasono.web.id/wp-content/uploads/2021/07/suwono-9.jpg?ssl=1"><img decoding="async" srcset="https://i2.wp.com/blog.sasono.web.id/wp-content/uploads/2021/07/suwono-9.jpg?strip=info&#038;w=600&#038;ssl=1 600w,https://i2.wp.com/blog.sasono.web.id/wp-content/uploads/2021/07/suwono-9.jpg?strip=info&#038;w=900&#038;ssl=1 900w,https://i2.wp.com/blog.sasono.web.id/wp-content/uploads/2021/07/suwono-9.jpg?strip=info&#038;w=960&#038;ssl=1 960w" alt="" data-height="720" data-id="1479" data-link="/2021/07/03/air-terjun-suwono/processed-with-vsco-with-a6-preset-7/" data-url="/wp-content/uploads/2021/07/suwono-9.jpg" data-width="960" src="https://i2.wp.com/blog.sasono.web.id/wp-content/uploads/2021/07/suwono-9.jpg?ssl=1" data-amp-layout="responsive"/></a></figure></div></div></div></div>
+
+
+
+<p>Air Terjun Suwono, salah satu destinasi wisata alam di Kecamatan Ngrambe, Kabupaten Ngawi. Foto ini sebenarnya diambil di bulan <strong>Juli 2012</strong>, dan dulu sudah pernah saya posting di blog ini. Saya posting ulang setelah sebelumnya sempat saya arsipkan. Oh iya, di postingan ini fotonya juga sudah saya edit pakai VSCO.</p>
+
+
+
+<p>Untuk akses menuju lokasi sudah cukup bagus, namun sekitar 400 meter mendekati lokasi hanya ada jalan setapak di tengah vegetasi pohon pinus yang sisi kanannya merupakan jurang. Kalau sekarang gak tahu lagi kondisinya Air Terjun Suwono kayak gimana, waktu itu lokasi ini belum terkenal, masih belum banyak yang jamah. Silahkan kalian bandingan dengan foto-foto yang sekarang.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2021/07/03/air-terjun-suwono/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1470</post-id>	</item>
+	</channel>
+</rss>

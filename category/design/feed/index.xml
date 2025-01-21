@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Design &#8211; Noreta Agus Sasono</title>
+	<atom:link href="/category/design/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pikiran, Ide, dan Gagasan</description>
+	<lastBuildDate>Fri, 27 Mar 2020 03:41:54 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2020/03/wp-1585135739501.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>Design &#8211; Noreta Agus Sasono</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">123076682</site>	<item>
+		<title>Ukuran Itu Penting</title>
+		<link>/2016/06/02/ukuran-itu-penting/</link>
+					<comments>/2016/06/02/ukuran-itu-penting/#comments</comments>
+		
+		<dc:creator><![CDATA[norsasono]]></dc:creator>
+		<pubDate>Thu, 02 Jun 2016 12:34:24 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Internet]]></category>
+		<guid isPermaLink="false">http://blog-gulajawa.rhcloud.com/2016/06/02/ukuran-itu-penting/</guid>
+
+					<description><![CDATA[Yes, size does matter. Meskipun tidak dalam semua hal, tetapi ukuran sering kali bisa menjadi awal dari sebuah permasalahan. FYI, saya baru saja merubah background image blog ini, saya tetap memutuskan menggunakan warna hitam sebagai warna dominan dengan sedikit aksen bunga Dandelion di sisi kiri disertai protolannya (tolong, saya lupa bahasa Indonesianya). Oke, mari kita [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><em>Yes, size does matter</em>. Meskipun tidak dalam semua hal, tetapi ukuran sering kali bisa menjadi awal dari sebuah permasalahan.</p>
+<p><strong>FYI</strong>, saya baru saja merubah <em>background image</em> blog ini, saya tetap memutuskan menggunakan warna hitam sebagai warna dominan dengan sedikit aksen bunga Dandelion di sisi kiri disertai <em>protolannya</em> (tolong, saya lupa bahasa Indonesianya).</p>
+<p><span id="more-143"></span></p>
+<p>Oke, mari kita kembali ke topik utama. <em>It&#8217;s about the size</em>, tentang besar atau kecil, panjang atau pendek, pokok tentang pentingnya sebuah ukuran.</p>
+<p>Saya baru saja mengirim pesanan desain seseorang untuk souvenir pernikahan, kebetulan beliau minta pesanannya dikirim via email karena saya bilang kalau gambarnya tidak terlalu besar, maksud saya ukuran filenya tidak terlalu besar. Bagi kalian yang familiar dengan file vector tentu akan paham betul perbandingan file vector dengan bitmap, kalau masih belum paham bisa baca <a href="http://etc.usf.edu/techease/win/images/what-is-the-difference-between-bitmap-and-vector-images/">ini</a> atau <a href="http://www.edipsw.com/desain-grafis/perbedaan-antara-gambar-bitmap/">ini</a>, file gambar berbentuk vector akan berukuran relatif lebih kecil daripada gambar berbentuk bitmap dengan dimensi yang sama.</p>
+<p>Lihat gambar di atas? Okay, gambar di atas merupakan gambar yang dibentuk menggunakan vector. Pssttt .. Tebak berapa ukurannya? lalu klik kanan mouse kalian <em>View Page Info</em> lalu pindah ke tab media, atau klik link <a href="/content/images/2016/06/dandelions.png">ini</a> untuk mendownload. Dengan dimensi 1.923px × 1.203px, gambar di atas hanya berukuran 18,61 KB atau sekitar 19.052 bytes.</p>
+<p>Lalu apa sangkut pautnya dengan internet? blog? atau email? <em>Speed</em>. Kecepatan. Semakin kecil data yang kalian akses semakin kecil pula <em>bandwith</em> yang kalian gunakan, berarti juga semakin cepat file yang terkirim maupun diterima, dan semakin sedikit juga kuota internet yang digunakan. <em>See??</em></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2016/06/02/ukuran-itu-penting/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">143</post-id>	</item>
+		<item>
+		<title>Google Noto Fonts</title>
+		<link>/2015/04/01/google-noto-fonts/</link>
+					<comments>/2015/04/01/google-noto-fonts/#comments</comments>
+		
+		<dc:creator><![CDATA[norsasono]]></dc:creator>
+		<pubDate>Tue, 31 Mar 2015 22:00:00 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Internet]]></category>
+		<guid isPermaLink="false">http://blog-gulajawa.rhcloud.com/2015/04/01/google-noto-fonts/</guid>
+
+					<description><![CDATA[Noto is Google’s font family that aims to support all the world’s languages. Its design goal is to achieve visual harmonization across languages.]]></description>
+										<content:encoded><![CDATA[<p>Bagi kalian yang belum pernah dengar proyek Google yang satu ini mungkin akan bertanya-tanya tentang maksud atau tujuan dari adanya proyek tersebut. Google Noto Fonts adalah proyek lain milik Google disamping <a href="http://google.com/fonts">Google Fonts</a>.</p>
+<p>Seperti kutipan yang ada pada halaman resmi, proyek ini bertujuan untuk menyelaraskan tampilan visual seluruh bahasa di dunia. Jadi tidak perlu banyak jenis <em>font</em> yang digunakan untuk setiap penulisan sebuah bahasa.</p>
+<p>Untuk Indonesia sendiri, Noto sudah memiliki beberapa bahasa daerah di Indonesia; Achi, Bali, Banjar, Batak Toga, Betawi, Bugis, Gorontalo, Jawa, Kerinci, Komering, Lampung Api, Madura, Makasar, Malay (Arab), Mandar, Mentawai, Minangkabau, Ngaju, Rejang, Sangir, Sasak, Selayar, Sunda, Tae&#8217;, Tolaki, Cina Tradisional, Uab Meto, dan bahasa Indonesia sendiri.</p>
+<p>Noto menyediakan dua jenis <em>font</em> yang dapat digunakan dalam penulisan, yaitu Sans dan Serif.</p>
+<p>Tertarik? silahkan kunjungi halaman resmi <a href="http://www.google.com/get/noto/#/">Google Noto Fonts</a> untuk mengunduhnya.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2015/04/01/google-noto-fonts/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">110</post-id>	</item>
+	</channel>
+</rss>

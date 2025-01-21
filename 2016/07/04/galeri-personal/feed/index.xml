@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Galeri Personal	</title>
+	<atom:link href="/2016/07/04/galeri-personal/feed/" rel="self" type="application/rss+xml" />
+	<link>/2016/07/04/galeri-personal/</link>
+	<description>Pikiran, Ide, dan Gagasan</description>
+	<lastBuildDate>Tue, 24 Mar 2020 17:57:18 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>
+		By: Sucipto		</title>
+		<link>/2016/07/04/galeri-personal/#comment-29</link>
+
+		<dc:creator><![CDATA[Sucipto]]></dc:creator>
+		<pubDate>Mon, 04 Jul 2016 09:08:50 +0000</pubDate>
+		<guid isPermaLink="false">http://blog-gulajawa.rhcloud.com/2016/07/02/galeri-personal/#comment-29</guid>
+
+					<description><![CDATA[Hostingnya dimana iku?]]></description>
+			<content:encoded><![CDATA[<p>Hostingnya dimana iku?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

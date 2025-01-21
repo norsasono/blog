@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Design &#8211; Noreta Agus Sasono</title>
+	<atom:link href="/tag/design/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pikiran, Ide, dan Gagasan</description>
+	<lastBuildDate>Fri, 27 Mar 2020 03:42:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2020/03/wp-1585135739501.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>Design &#8211; Noreta Agus Sasono</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">123076682</site>	<item>
+		<title>Ukuran Itu Penting</title>
+		<link>/2016/06/02/ukuran-itu-penting/</link>
+					<comments>/2016/06/02/ukuran-itu-penting/#comments</comments>
+		
+		<dc:creator><![CDATA[norsasono]]></dc:creator>
+		<pubDate>Thu, 02 Jun 2016 12:34:24 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Internet]]></category>
+		<guid isPermaLink="false">http://blog-gulajawa.rhcloud.com/2016/06/02/ukuran-itu-penting/</guid>
+
+					<description><![CDATA[Yes, size does matter. Meskipun tidak dalam semua hal, tetapi ukuran sering kali bisa menjadi awal dari sebuah permasalahan. FYI, saya baru saja merubah background image blog ini, saya tetap memutuskan menggunakan warna hitam sebagai warna dominan dengan sedikit aksen bunga Dandelion di sisi kiri disertai protolannya (tolong, saya lupa bahasa Indonesianya). Oke, mari kita [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><em>Yes, size does matter</em>. Meskipun tidak dalam semua hal, tetapi ukuran sering kali bisa menjadi awal dari sebuah permasalahan.</p>
+<p><strong>FYI</strong>, saya baru saja merubah <em>background image</em> blog ini, saya tetap memutuskan menggunakan warna hitam sebagai warna dominan dengan sedikit aksen bunga Dandelion di sisi kiri disertai <em>protolannya</em> (tolong, saya lupa bahasa Indonesianya).</p>
+<p><span id="more-143"></span></p>
+<p>Oke, mari kita kembali ke topik utama. <em>It&#8217;s about the size</em>, tentang besar atau kecil, panjang atau pendek, pokok tentang pentingnya sebuah ukuran.</p>
+<p>Saya baru saja mengirim pesanan desain seseorang untuk souvenir pernikahan, kebetulan beliau minta pesanannya dikirim via email karena saya bilang kalau gambarnya tidak terlalu besar, maksud saya ukuran filenya tidak terlalu besar. Bagi kalian yang familiar dengan file vector tentu akan paham betul perbandingan file vector dengan bitmap, kalau masih belum paham bisa baca <a href="http://etc.usf.edu/techease/win/images/what-is-the-difference-between-bitmap-and-vector-images/">ini</a> atau <a href="http://www.edipsw.com/desain-grafis/perbedaan-antara-gambar-bitmap/">ini</a>, file gambar berbentuk vector akan berukuran relatif lebih kecil daripada gambar berbentuk bitmap dengan dimensi yang sama.</p>
+<p>Lihat gambar di atas? Okay, gambar di atas merupakan gambar yang dibentuk menggunakan vector. Pssttt .. Tebak berapa ukurannya? lalu klik kanan mouse kalian <em>View Page Info</em> lalu pindah ke tab media, atau klik link <a href="/content/images/2016/06/dandelions.png">ini</a> untuk mendownload. Dengan dimensi 1.923px × 1.203px, gambar di atas hanya berukuran 18,61 KB atau sekitar 19.052 bytes.</p>
+<p>Lalu apa sangkut pautnya dengan internet? blog? atau email? <em>Speed</em>. Kecepatan. Semakin kecil data yang kalian akses semakin kecil pula <em>bandwith</em> yang kalian gunakan, berarti juga semakin cepat file yang terkirim maupun diterima, dan semakin sedikit juga kuota internet yang digunakan. <em>See??</em></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2016/06/02/ukuran-itu-penting/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">143</post-id>	</item>
+		<item>
+		<title>12 Kalimat yang Dibenci Seorang Desainer Grafis</title>
+		<link>/2016/05/18/12-kalimat-yang-dibenci-seorang-desainer-grafis/</link>
+					<comments>/2016/05/18/12-kalimat-yang-dibenci-seorang-desainer-grafis/#respond</comments>
+		
+		<dc:creator><![CDATA[norsasono]]></dc:creator>
+		<pubDate>Tue, 17 May 2016 21:18:48 +0000</pubDate>
+				<category><![CDATA[Valuable]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Internet]]></category>
+		<guid isPermaLink="false">http://blog-gulajawa.rhcloud.com/2016/05/18/12-kalimat-yang-dibenci-seorang-desainer-grafis/</guid>
+
+					<description><![CDATA[Bagi kalian yang bekerja sebagai seorang Desainer Grafis atau operator komputer, mungkin 12 kalimat dari seorang klien ini akan terasa begitu menyakitkan jika didengar 1. &#8220;Kan cuma tinggal digeser aja.&#8221; Geser juga gak bisa sembarangan geser, setiap objek yang digeser itu akan merubah komposisi dan keselarasan, maka kalau dibilang ngegeser sedikit, maka yang lain akan [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Bagi kalian yang bekerja sebagai seorang Desainer Grafis atau operator komputer, mungkin 12 kalimat dari seorang <em>klien</em> ini akan terasa begitu menyakitkan jika didengar <sup id="fnref-1"><a href="#fn-1" rel="footnote">1</a></sup>.</p>
+<p><span id="more-139"></span></p>
+<ol>
+<ol>
+<li><strong>&#8220;Kan cuma tinggal digeser aja.&#8221;</strong><br />
+Geser juga gak bisa sembarangan geser, setiap objek yang digeser itu akan merubah komposisi dan keselarasan, maka kalau dibilang <em>ngegeser</em> sedikit, maka yang lain akan ikut dirubah juga biar kelihatan bagus.</li>
+<li><strong>&#8220;Cuma gitu aja kok.&#8221;</strong><br />
+Gak ada yng gitu ajah. Semuanya butuh pemikiran dan perencanaan. Kalau mau dibilang mah, jalan kaki juga keliatanya cuma gitu doang. Padahal di dalam tuh otot dan sendi dan syaraf semuanya berkoordinasi dengan cara yang rumit. Cuma gak keliatan aja.</li>
+<li><strong>&#8220;Yang gampang aja.&#8221;</strong><br />
+Antara perhatian dengan desainernya biar gak repot, tapi juga bisa jadi ini ngeremehin desainernya. Yang gampang itu gak ada, dan semuanya juga butuh usaha.</li>
+<li><strong>&#8220;Kok belum selesai juga?&#8221;</strong><br />
+Paling males nih kalau udah dirong-rong kayak gini. Meskipun kelihatannya sederhana, tapi gak bisa juga sedetik langsung kelar. Kemudian, cuma bisa sabar aja.</li>
+<li><strong>&#8220;Coba ganti merah. <em>setelah diganti</em>. Eh bagusan yang tadi deh.&#8221;</strong><br />
+Semua yang udah dibuat sama desainer grafis itu dengan pertimbangan. Kalu misalnya minta diganti satu, misalnya ganti warna, tentu semuanya jadi harus disesuaikan juga dong. Kalu setelah itu revisinya diterima sih gak apa-apa. Yang bikin ngelus dada tuh kalau ternyata pilihan pertama itu yang lebih bagus.</li>
+<li><strong>&#8220;Cuma betulin dikit kok.&#8221;</strong><br />
+Coba definisikan sedikit.Kadang sedikit menurut <em>klien</em> gak sedikit menurut desainer grafis. Sedikit juga bisa beerarti dirmbak banyak juga.</li>
+<li><strong>&#8220;Gak usah bagus-bagus amat lah, asal aja.&#8221;</strong><br />
+Mungkin maksud dari orang ini adalah, yah, bikin yang sederhana aja yang gak ribet. Intinya sih dia pengen cepet. Tapik kan namanya desainer ya pastinya mempertaruhkan nama dia di setiap karyanya kan. Masak mau bikin yang asal-asalan?</li>
+<li><strong>&#8220;Masih lama ya?&#8221;</strong><br />
+Lagi-lagi <em>klien</em> gak ngerti ya kalau misalnya ngedesain itu gak mudah. Mungkin langkah-langkah bikinnya kelihatan mudah, tapi kalau dijalani itu ribet juga tau. Gak bisa sebentar.</li>
+<li><strong>&#8220;Besok udah jadi, bisa kan?&#8221;</strong><br />
+Iya, pengen cepet, ngerti kok. Kalau bisa cepet ngerjainnya cepet deh. Tapi kalau misalnya pekerjaan yang rumit diminta untuk bisa selesai dalam waktu sebentar ya gak bisa juga.</li>
+<li><strong>&#8220;Gua lupa sih nama <em>font</em>nya apa. Lu pasti lebih tau lah, kan lu desainer.&#8221;</strong><br />
+Yes, I am. Tapi &#8230; setidaknya <em>klien</em> juga harus tau apa yang dia mau dan kalau mau ngaduk-ngaduk koleksi <em>font</em>, wah, bisa sampe lebaran tahun depan baru kelar. Kalau bisa kasih referensi kan jadinya bakal lebih cepet.</li>
+<li><strong>&#8220;Harga temen aja ya.&#8221;</strong><br />
+Justru, kalau misalnya kita pakai jasa temen yang kita kenal, bukannya harusnya kita ikut membantu dia dan menghargai pekerjaannya itu ya? Masak mau dibayar kurang juga sih?, Kasihan dong. Nolaknya juga gak enak soalnya.</li>
+<li><strong>&#8220;Makasih Mas&#8221;</strong><br />
+Ini yang paling nyesek, bayaran sebesar <strong>2M</strong> untuk pekerjaan semalaman. <strong>Makasih Mas ..</strong></li>
+</ol>
+</ol>
+<blockquote><p>Apresiasi setiap pekerjaan yang dilakukan seseorang, karena gak semua yang terlihat mudah itu mudah juga prosesnya.</p></blockquote>
+<hr>
+<div class="footnotes">
+<ol>
+<li id="fn-1" class="footnote">Sumber: <strong>11 Kalimat yang Bisa Bikin Desainer Grafis/Operator Komputer NGELUS DADA.</strong> <a title="return to article" href="#fnref-1"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/21a9.png" alt="↩" class="wp-smiley" style="height: 1em; max-height: 1em;" /></a></li>
+</ol>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2016/05/18/12-kalimat-yang-dibenci-seorang-desainer-grafis/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">139</post-id>	</item>
+	</channel>
+</rss>

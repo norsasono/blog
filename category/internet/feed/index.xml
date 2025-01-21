@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Internet &#8211; Noreta Agus Sasono</title>
+	<atom:link href="/category/internet/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pikiran, Ide, dan Gagasan</description>
+	<lastBuildDate>Tue, 24 Mar 2020 17:54:36 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>https://i0.wp.com/blog.sasono.web.id/wp-content/uploads/2020/03/wp-1585135739501.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>Internet &#8211; Noreta Agus Sasono</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">123076682</site>	<item>
+		<title>Tak Cukup Hanya &#8220;Incognito&#8221;</title>
+		<link>/2017/06/17/tak-cukup-hanya-incognito/</link>
+					<comments>/2017/06/17/tak-cukup-hanya-incognito/#respond</comments>
+		
+		<dc:creator><![CDATA[norsasono]]></dc:creator>
+		<pubDate>Sat, 17 Jun 2017 09:55:09 +0000</pubDate>
+				<category><![CDATA[Computer]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Tutorial]]></category>
+		<guid isPermaLink="false">/?p=588</guid>
+
+					<description><![CDATA[Because there's no place like 127.0.0.1]]></description>
+										<content:encoded><![CDATA[<p>Beberapa hari yang lalu saya membaca sebuah tulisan bagus dari <a href="https://medium.freecodecamp.com/@quincylarson"><strong>Quincy Larson</strong></a> yang berjudul <a href="https://medium.freecodecamp.com/tor-signal-and-beyond-a-law-abiding-citizens-guide-to-privacy-1a593f2104c3"><strong>&#8220;How to encrypt your entire life in less than an hour&#8221;</strong></a>. Artikel tersebut menjabarkan beberapa tips tentang bagaimana untuk tetap aman dalam dunia digital, termasuk di dalamnya penggunaan browser yang memiliki fitur dalam hal keamanan yang jauh lebih baik dari pada browser yang umum kita gunakan seperi Chrome, Firefox, Safari, dan lain sebagainya, bahkan sekalipun kita sudah menggunakan fitur <em>Incognito</em> ataupun <em>Private Window</em>. Silahkan gunakan <a href="https://www.torproject.org/">TOR</a>.<span id="more-588"></span></p>
+<p>Dan satu hal lagi yang belum masuk dalam list tips dari penulis adalah penambahan daftar alamat pada file <em>Host</em> untuk meningkatkan privasi dari komputer kita ketika terhubung ke internet. Gunakan <em>host</em> <span id="result_box" class="" lang="id"><span class="">untuk mencegah komputer kalian terhubung ke alamat-alamat tertentu.</span> <span class="">Ini merupakan cara mudah dan efektif untuk melindungi kalian dari berbagai jenis spyware, mengurangi penggunaan bandwidth, memblokir perangkap pop-up tertentu, dan mencegah pelacakan pengguna dengan menggunakan celah atau <em>bug</em> pada sebuah website. Mekanismenya hanyalah membatasi/memblok perangkat kita <code>127.0.0.1</code> untuk dapat mengakses alamat/<em>IP Address</em> yang tertera pada list.<br />
+</span></span></p>
+<p>Beberapa bulan ini saya menggunakan <em>host</em> file milik <a href="http://someonewhocares.org/hosts/hosts" target="_blank" rel="noopener noreferrer">Dan Pollock</a> di perangkat pribadi saya baik laptop dan juga HP. Silahkan download dan <em>install</em> di perangkat kalian. Tutorial pemasangan untuk berbagai jenis sistem operasi sudah tertera dalam file, silahkan buka menggunakan notepad.</p>
+<p>Untuk pemasangan pada perangkat ponsel Android, syarat utamanya adalah HP sudah memiliki akses <em>Root</em>. Gunakan file manjer yang support root akses dan letakkan file pada <code>/system/etc/</code>.</p>
+<h2>Update</h2>
+<p>Kalian juga dapat menggunakan repository <a href="https://github.com/StevenBlack/hosts">Steven Black</a> sebagai alternatif. Tutorial pemasangan serta update daftar host juga disertakan.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2017/06/17/tak-cukup-hanya-incognito/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">588</post-id>	</item>
+	</channel>
+</rss>

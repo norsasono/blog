@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Pindah ke OpenShift	</title>
+	<atom:link href="/2016/05/06/pindah-ke-openshift/feed/" rel="self" type="application/rss+xml" />
+	<link>/2016/05/06/pindah-ke-openshift/</link>
+	<description>Pikiran, Ide, dan Gagasan</description>
+	<lastBuildDate>Tue, 24 Mar 2020 17:55:01 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>
+		By: Memindahkan Situs Utama dan Blog ke Firebase &#8211; Noreta Agus Sasono		</title>
+		<link>/2016/05/06/pindah-ke-openshift/#comment-46</link>
+
+		<dc:creator><![CDATA[Memindahkan Situs Utama dan Blog ke Firebase &#8211; Noreta Agus Sasono]]></dc:creator>
+		<pubDate>Tue, 24 Mar 2020 17:55:01 +0000</pubDate>
+		<guid isPermaLink="false">http://blog-gulajawa.rhcloud.com/2016/05/06/pindah-ke-openshift/#comment-46</guid>
+
+					<description><![CDATA[[&#8230;] untuk blog ini, saya sempat beberapa kali memindahkan tempat, kalian bisa baca di sini dan di sini. Bagi saya rasanya perlu sekali membedakan antara halaman utama dengan blog, karena blog lebih [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] untuk blog ini, saya sempat beberapa kali memindahkan tempat, kalian bisa baca di sini dan di sini. Bagi saya rasanya perlu sekali membedakan antara halaman utama dengan blog, karena blog lebih [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
